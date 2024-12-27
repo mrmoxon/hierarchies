@@ -1,0 +1,501 @@
+artist,song_title,release_date,release_title,release_type,track_position,recording_id,length_seconds
+Pink Floyd,Astronomy Domine,1967-10-02,The Piper at the Gates of Dawn,Album,1-1,45e08e33-8432-4b9a-bc3b-1358c2cfd1af,252
+Pink Floyd,Lucifer Sam,1967-10-02,The Piper at the Gates of Dawn,Album,1-2,1d1504f2-9f84-4c93-8356-85c014c4537a,187
+Pink Floyd,Matilda Mother,1967-10-02,The Piper at the Gates of Dawn,Album,1-3,234137c4-9e43-47d3-b7ca-36c5f81f98c5,188
+Pink Floyd,Flaming,1967-10-02,The Piper at the Gates of Dawn,Album,1-4,c1295ed9-4821-4727-9a8c-71433c8a80b7,166
+Pink Floyd,Pow R. Toc H.,1967-10-02,The Piper at the Gates of Dawn,Album,1-5,2bf00fb2-7ec0-469e-82be-b72b1eaaf467,266
+Pink Floyd,Take Up Thy Stethoscope and Walk,1967-10-02,The Piper at the Gates of Dawn,Album,1-6,1e59adac-f3d4-4d0c-a892-80a84a4b5ca9,185
+Pink Floyd,Interstellar Overdrive,1967-10-02,The Piper at the Gates of Dawn,Album,1-7,ba53d361-fec6-478f-8bfb-ad5cd7f19a8b,581
+Pink Floyd,The Gnome,1967-10-02,The Piper at the Gates of Dawn,Album,1-8,f2db360d-a43e-4b12-beeb-29457fe9416c,133
+Pink Floyd,Chapter 24,1967-10-02,The Piper at the Gates of Dawn,Album,1-9,5204eeaa-c84a-4edd-802e-d1e4c32d58ae,222
+Pink Floyd,The Scarecrow,1967-10-02,The Piper at the Gates of Dawn,Album,1-10,3624dac2-48b6-4a0f-9467-3219293ec797,131
+Pink Floyd,Bike,1967-10-02,The Piper at the Gates of Dawn,Album,1-11,1c42ff6c-6c59-40ef-9564-a935b3551949,201
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,See Emily Play,1967,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967,See Emily Play,Single,1-2,f1e5817d-1de3-4539-9216-6c85c676ca7e,127
+Pink Floyd,See Emily Play,1967-10-05,エミリーはプレイ・ガール,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-10-05,エミリーはプレイ・ガール,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,Astronomy Domine,1967,The Piper at the Gates of Dawn,Album,1-1,45e08e33-8432-4b9a-bc3b-1358c2cfd1af,252
+Pink Floyd,Lucifer Sam,1967,The Piper at the Gates of Dawn,Album,1-2,1d1504f2-9f84-4c93-8356-85c014c4537a,187
+Pink Floyd,Matilda Mother,1967,The Piper at the Gates of Dawn,Album,1-3,234137c4-9e43-47d3-b7ca-36c5f81f98c5,188
+Pink Floyd,Flaming,1967,The Piper at the Gates of Dawn,Album,1-4,c1295ed9-4821-4727-9a8c-71433c8a80b7,166
+Pink Floyd,Pow R. Toc H.,1967,The Piper at the Gates of Dawn,Album,1-5,2bf00fb2-7ec0-469e-82be-b72b1eaaf467,266
+Pink Floyd,Take Up Thy Stethoscope and Walk,1967,The Piper at the Gates of Dawn,Album,1-6,1e59adac-f3d4-4d0c-a892-80a84a4b5ca9,185
+Pink Floyd,Interstellar Overdrive,1967,The Piper at the Gates of Dawn,Album,1-7,ba53d361-fec6-478f-8bfb-ad5cd7f19a8b,581
+Pink Floyd,The Gnome,1967,The Piper at the Gates of Dawn,Album,1-8,f2db360d-a43e-4b12-beeb-29457fe9416c,133
+Pink Floyd,Chapter 24,1967,The Piper at the Gates of Dawn,Album,1-9,5204eeaa-c84a-4edd-802e-d1e4c32d58ae,222
+Pink Floyd,The Scarecrow,1967,The Piper at the Gates of Dawn,Album,1-10,3624dac2-48b6-4a0f-9467-3219293ec797,131
+Pink Floyd,Bike,1967,The Piper at the Gates of Dawn,Album,1-11,1c42ff6c-6c59-40ef-9564-a935b3551949,201
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,See Emily Play,1970-02,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1970-02,See Emily Play,Single,1-2,f1e5817d-1de3-4539-9216-6c85c676ca7e,127
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,Astronomy Domine,1967-08-05,The Piper at the Gates of Dawn,Album,1-1,45e08e33-8432-4b9a-bc3b-1358c2cfd1af,252
+Pink Floyd,Lucifer Sam,1967-08-05,The Piper at the Gates of Dawn,Album,1-2,1d1504f2-9f84-4c93-8356-85c014c4537a,187
+Pink Floyd,Matilda Mother,1967-08-05,The Piper at the Gates of Dawn,Album,1-3,234137c4-9e43-47d3-b7ca-36c5f81f98c5,188
+Pink Floyd,Flaming,1967-08-05,The Piper at the Gates of Dawn,Album,1-4,c1295ed9-4821-4727-9a8c-71433c8a80b7,166
+Pink Floyd,Pow R. Toc H.,1967-08-05,The Piper at the Gates of Dawn,Album,1-5,2bf00fb2-7ec0-469e-82be-b72b1eaaf467,266
+Pink Floyd,Take Up Thy Stethoscope and Walk,1967-08-05,The Piper at the Gates of Dawn,Album,1-6,1e59adac-f3d4-4d0c-a892-80a84a4b5ca9,185
+Pink Floyd,Interstellar Overdrive,1967-08-05,The Piper at the Gates of Dawn,Album,1-7,ba53d361-fec6-478f-8bfb-ad5cd7f19a8b,581
+Pink Floyd,The Gnome,1967-08-05,The Piper at the Gates of Dawn,Album,1-8,f2db360d-a43e-4b12-beeb-29457fe9416c,133
+Pink Floyd,Chapter 24,1967-08-05,The Piper at the Gates of Dawn,Album,1-9,5204eeaa-c84a-4edd-802e-d1e4c32d58ae,222
+Pink Floyd,The Scarecrow,1967-08-05,The Piper at the Gates of Dawn,Album,1-10,3624dac2-48b6-4a0f-9467-3219293ec797,131
+Pink Floyd,Bike,1967-08-05,The Piper at the Gates of Dawn,Album,1-11,1c42ff6c-6c59-40ef-9564-a935b3551949,201
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,f1e5817d-1de3-4539-9216-6c85c676ca7e,127
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,Flaming (mono) (US single),1967-11-02,Flaming,Single,1-1,05600fd1-a8ec-44f0-9514-7e33408df285,167
+Pink Floyd,The Gnome,1967-11-02,Flaming,Single,1-2,50871af0-161b-4fb4-9d88-bc0511337c55,134
+Pink Floyd,See Emily Play,1967-06,See Emily Play,Album,1-1,88bfe5d0-e39f-4fb7-bcd5-e05e48358b43,167
+Pink Floyd,Scarecrow,1967-06,See Emily Play,Album,1-2,f1e5817d-1de3-4539-9216-6c85c676ca7e,127
+Pink Floyd,Arnold Layne,1967-06,See Emily Play,Album,1-3,b85dff73-d90f-4e33-8ad1-afebb1c3f2c0,175
+Pink Floyd,Candy and a Currant Bun,1967-06,See Emily Play,Album,1-4,9963f406-8840-4e48-acb9-6bdba69d0507,165
+Pink Floyd,Atom Heart Mother: a) Father’s Shout / b) Breast Milky / c) Mother Fore / d) Funky Dung / e) Mind Your Throats Please / f) Remergence,1970,Atom Heart Mother,Album,1-1,5188780a-b68d-4886-89a5-f6c4d34a5f14,1424
+Pink Floyd,If,1970,Atom Heart Mother,Album,1-2,d68bbb96-9f50-4a55-9a65-18d720290306,270
+Pink Floyd,Summer ’68,1970,Atom Heart Mother,Album,1-3,ee954421-26a1-43da-ac29-c1c34c53b151,329
+Pink Floyd,Fat Old Sun,1970,Atom Heart Mother,Album,1-4,8ff6e056-f471-4410-9740-93b8aa34bdec,322
+Pink Floyd,Alan’s Psychedelic Breakfast: a) Rise and Shine / b) Sunny Side Up / c) Morning Glory,1970,Atom Heart Mother,Album,1-5,4125f51d-1938-403f-9b64-e45a400ef790,780
+Pink Floyd,Astronomy Domine,1969,The Piper at the Gates of Dawn,Album,1-1,45e08e33-8432-4b9a-bc3b-1358c2cfd1af,252
+Pink Floyd,Lucifer Sam,1969,The Piper at the Gates of Dawn,Album,1-2,1d1504f2-9f84-4c93-8356-85c014c4537a,187
+Pink Floyd,Matilda Mother,1969,The Piper at the Gates of Dawn,Album,1-3,234137c4-9e43-47d3-b7ca-36c5f81f98c5,188
+Pink Floyd,Flaming,1969,The Piper at the Gates of Dawn,Album,1-4,c1295ed9-4821-4727-9a8c-71433c8a80b7,166
+Pink Floyd,Pow R. Toc H.,1969,The Piper at the Gates of Dawn,Album,1-5,2bf00fb2-7ec0-469e-82be-b72b1eaaf467,266
+Pink Floyd,Take Up Thy Stethoscope and Walk,1969,The Piper at the Gates of Dawn,Album,1-6,1e59adac-f3d4-4d0c-a892-80a84a4b5ca9,185
+Pink Floyd,Interstellar Overdrive,1969,The Piper at the Gates of Dawn,Album,1-7,ba53d361-fec6-478f-8bfb-ad5cd7f19a8b,581
+Pink Floyd,The Gnome,1969,The Piper at the Gates of Dawn,Album,1-8,f2db360d-a43e-4b12-beeb-29457fe9416c,133
+Pink Floyd,Chapter 24,1969,The Piper at the Gates of Dawn,Album,1-9,5204eeaa-c84a-4edd-802e-d1e4c32d58ae,222
+Pink Floyd,The Scarecrow,1969,The Piper at the Gates of Dawn,Album,1-10,3624dac2-48b6-4a0f-9467-3219293ec797,131
+Pink Floyd,Bike,1969,The Piper at the Gates of Dawn,Album,1-11,1c42ff6c-6c59-40ef-9564-a935b3551949,201
+Pink Floyd,Astronomy Domine,1967,The Piper at the Gates of Dawn,Album,1-1,45e08e33-8432-4b9a-bc3b-1358c2cfd1af,252
+Pink Floyd,Lucifer Sam,1967,The Piper at the Gates of Dawn,Album,1-2,1d1504f2-9f84-4c93-8356-85c014c4537a,187
+Pink Floyd,Matilda Mother,1967,The Piper at the Gates of Dawn,Album,1-3,234137c4-9e43-47d3-b7ca-36c5f81f98c5,188
+Pink Floyd,Flaming,1967,The Piper at the Gates of Dawn,Album,1-4,c1295ed9-4821-4727-9a8c-71433c8a80b7,166
+Pink Floyd,Pow R. Toc H.,1967,The Piper at the Gates of Dawn,Album,1-5,2bf00fb2-7ec0-469e-82be-b72b1eaaf467,266
+Pink Floyd,Take Up Thy Stethoscope and Walk,1967,The Piper at the Gates of Dawn,Album,1-6,1e59adac-f3d4-4d0c-a892-80a84a4b5ca9,185
+Pink Floyd,Interstellar Overdrive,1967,The Piper at the Gates of Dawn,Album,1-7,ba53d361-fec6-478f-8bfb-ad5cd7f19a8b,581
+Pink Floyd,The Gnome,1967,The Piper at the Gates of Dawn,Album,1-8,f2db360d-a43e-4b12-beeb-29457fe9416c,133
+Pink Floyd,Chapter 24,1967,The Piper at the Gates of Dawn,Album,1-9,5204eeaa-c84a-4edd-802e-d1e4c32d58ae,222
+Pink Floyd,The Scarecrow,1967,The Piper at the Gates of Dawn,Album,1-10,3624dac2-48b6-4a0f-9467-3219293ec797,131
+Pink Floyd,Bike,1967,The Piper at the Gates of Dawn,Album,1-11,1c42ff6c-6c59-40ef-9564-a935b3551949,201
+Pink Floyd,See Emily Play,1967,The Piper at the Gates of Dawn,Album,1-12,9ff2fd59-47e3-4862-965b-2031ae4e60cc,169
+Pink Floyd,See Emily Play,1967,The Piper at the Gates of Dawn,Album,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Pow R. Toc H.,1967,The Piper at the Gates of Dawn,Album,1-2,46ac85f2-743b-46e2-8761-d801045c37b6,256
+Pink Floyd,Take Up Thy Stethoscope and Walk,1967,The Piper at the Gates of Dawn,Album,1-3,1e59adac-f3d4-4d0c-a892-80a84a4b5ca9,185
+Pink Floyd,Lucifer Sam,1967,The Piper at the Gates of Dawn,Album,1-4,1d1504f2-9f84-4c93-8356-85c014c4537a,187
+Pink Floyd,Matilda Mother,1967,The Piper at the Gates of Dawn,Album,1-5,c49513fc-9b34-45c8-82a7-25381d8bd6c6,179
+Pink Floyd,The Scarecrow,1967,The Piper at the Gates of Dawn,Album,1-6,3624dac2-48b6-4a0f-9467-3219293ec797,131
+Pink Floyd,The Gnome,1967,The Piper at the Gates of Dawn,Album,1-7,f2db360d-a43e-4b12-beeb-29457fe9416c,133
+Pink Floyd,Chapter 24,1967,The Piper at the Gates of Dawn,Album,1-8,4c85fa80-1949-44f4-9f00-525d630e30b0,231
+Pink Floyd,Interstellar Overdrive,1967,The Piper at the Gates of Dawn,Album,1-9,ba53d361-fec6-478f-8bfb-ad5cd7f19a8b,581
+Pink Floyd,Atom Heart Mother: a) Father’s Shout / b) Breast Milky / c) Mother Fore / d) Funky Dung / e) Mind Your Throats Please / f) Remergence,1970,Atom Heart Mother,Album,1-1,5188780a-b68d-4886-89a5-f6c4d34a5f14,1424
+Pink Floyd,If,1970,Atom Heart Mother,Album,1-2,d68bbb96-9f50-4a55-9a65-18d720290306,270
+Pink Floyd,Summer ’68,1970,Atom Heart Mother,Album,1-3,ee954421-26a1-43da-ac29-c1c34c53b151,329
+Pink Floyd,Fat Old Sun,1970,Atom Heart Mother,Album,1-4,8ff6e056-f471-4410-9740-93b8aa34bdec,322
+Pink Floyd,Alan’s Psychedelic Breakfast: a) Rise and Shine / b) Sunny Side Up / c) Morning Glory,1970,Atom Heart Mother,Album,1-5,4125f51d-1938-403f-9b64-e45a400ef790,780
+Pink Floyd,Astronomy Domine,1969,Ummagumma,Album,1-1,e9c5b049-4bcd-4556-a86b-8759d1ac26fb,510
+Pink Floyd,"Careful With That Axe, Eugene",1969,Ummagumma,Album,1-2,da914c0f-7b01-4cea-ba9b-b27c7e8ff32b,530
+Pink Floyd,Set the Controls for the Heart of the Sun,1969,Ummagumma,Album,1-3,f4386ac7-5bfa-4492-8688-7f5fb50af800,567
+Pink Floyd,A Saucerful of Secrets,1969,Ummagumma,Album,1-4,fa502033-1a08-4cf7-b0f5-7a352f47c25c,769
+Pink Floyd,"Sysyphus - Parts 1, 2, 3 & 4",1969,Ummagumma,Album,2-1,1eca081c-e5b5-423d-b556-e944510fd94d,807
+Pink Floyd,Grantchester Meadows,1969,Ummagumma,Album,2-2,f928b95a-6aa6-47fb-b6a2-8649eb73465e,447
+Pink Floyd,Several Species of Small Furry Animals Gathered Together in a Cave and Grooving With a Pict,1969,Ummagumma,Album,2-3,56ddb467-f218-4dfb-8d46-9938e9f630f9,287
+Pink Floyd,"The Narrow Way, Parts 1–3",1969,Ummagumma,Album,2-4,c5029c50-6090-4b41-9fc8-84bdb578c8a8,732
+Pink Floyd,"The Grand Vizier’s Garden Party, Part 1: Entrance / Part 2: Entertainment / Part 3: Exit",1969,Ummagumma,Album,2-5,b4b23a6e-4292-4087-8a59-1a7975e63845,532
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,f1e5817d-1de3-4539-9216-6c85c676ca7e,127
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,Chapter 24,1970,The Best of The Pink Floyd,Album,1-1,667567b1-2cbf-4e87-8ed2-5971b520da33,216
+Pink Floyd,Mathilda Mother,1970,The Best of The Pink Floyd,Album,1-2,87d6d78c-7445-4762-9bd0-7876bdcd2990,183
+Pink Floyd,Arnold Layne,1970,The Best of The Pink Floyd,Album,1-3,b85dff73-d90f-4e33-8ad1-afebb1c3f2c0,175
+Pink Floyd,Candy and a Currant Bun,1970,The Best of The Pink Floyd,Album,1-4,9963f406-8840-4e48-acb9-6bdba69d0507,165
+Pink Floyd,Scarecrow,1970,The Best of The Pink Floyd,Album,1-5,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,Apples and Oranges,1970,The Best of The Pink Floyd,Album,1-6,432f5daf-8ce4-4028-818a-8db9df6985eb,184
+Pink Floyd,It Would Be So Nice,1970,The Best of The Pink Floyd,Album,1-7,ca25a870-6b8d-4c44-b684-a40644c26079,224
+Pink Floyd,Paintbox,1970,The Best of The Pink Floyd,Album,1-8,9d579eae-aa88-4278-878a-1a70cf82641b,213
+Pink Floyd,Julia Dream,1970,The Best of The Pink Floyd,Album,1-9,7520b03a-f36f-4dd9-8984-76c77be85a02,156
+Pink Floyd,See Emily Play,1970,The Best of The Pink Floyd,Album,1-10,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Let There Be More Light,1968,A Saucerful of Secrets,Album,1-1,daaa9828-702a-4e14-8f3f-af9f24171c52,338
+Pink Floyd,Remember a Day,1968,A Saucerful of Secrets,Album,1-2,819f4310-f15c-498c-b6db-f62cd6e0fcc7,272
+Pink Floyd,Set the Controls for the Heart of the Sun,1968,A Saucerful of Secrets,Album,1-3,ccbb51ad-20b2-477f-a6a2-d3ca9cba2986,327
+Pink Floyd,Corporal Clegg,1968,A Saucerful of Secrets,Album,1-4,eeeea119-2c33-4c79-9728-96acec22ed6b,252
+Pink Floyd,A Saucerful of Secrets,1968,A Saucerful of Secrets,Album,1-5,610b11cf-ecb0-41a9-a3f2-3d40c74f9d6b,716
+Pink Floyd,See‐Saw,1968,A Saucerful of Secrets,Album,1-6,e83cf779-6547-4947-be4f-fe46c5b98592,276
+Pink Floyd,Jugband Blues,1968,A Saucerful of Secrets,Album,1-7,f56c98a4-ed4b-4afc-8306-cdc8e07cd03d,180
+Pink Floyd,Astronomy Domine,1969,The Piper at the Gates of Dawn,Album,1-1,45e08e33-8432-4b9a-bc3b-1358c2cfd1af,252
+Pink Floyd,Lucifer Sam,1969,The Piper at the Gates of Dawn,Album,1-2,1d1504f2-9f84-4c93-8356-85c014c4537a,187
+Pink Floyd,Matilda Mother,1969,The Piper at the Gates of Dawn,Album,1-3,234137c4-9e43-47d3-b7ca-36c5f81f98c5,188
+Pink Floyd,Flaming,1969,The Piper at the Gates of Dawn,Album,1-4,c1295ed9-4821-4727-9a8c-71433c8a80b7,166
+Pink Floyd,Pow R. Toc H.,1969,The Piper at the Gates of Dawn,Album,1-5,2bf00fb2-7ec0-469e-82be-b72b1eaaf467,266
+Pink Floyd,Take Up Thy Stethoscope and Walk,1969,The Piper at the Gates of Dawn,Album,1-6,1e59adac-f3d4-4d0c-a892-80a84a4b5ca9,185
+Pink Floyd,Interstellar Overdrive,1969,The Piper at the Gates of Dawn,Album,1-7,ba53d361-fec6-478f-8bfb-ad5cd7f19a8b,581
+Pink Floyd,The Gnome,1969,The Piper at the Gates of Dawn,Album,1-8,f2db360d-a43e-4b12-beeb-29457fe9416c,133
+Pink Floyd,Chapter 24,1969,The Piper at the Gates of Dawn,Album,1-9,5204eeaa-c84a-4edd-802e-d1e4c32d58ae,222
+Pink Floyd,The Scarecrow,1969,The Piper at the Gates of Dawn,Album,1-10,3624dac2-48b6-4a0f-9467-3219293ec797,131
+Pink Floyd,Bike,1969,The Piper at the Gates of Dawn,Album,1-11,1c42ff6c-6c59-40ef-9564-a935b3551949,201
+Pink Floyd,See Emily Play,1967,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967,See Emily Play,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,See Emily Play,1967-10-21,The Piper at the Gates of Dawn,Album,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Pow R. Toc H.,1967-10-21,The Piper at the Gates of Dawn,Album,1-2,cd58d6ff-75c3-4f65-abdc-b52373c2da11,265
+Pink Floyd,Take Up Thy Stethoscope and Walk,1967-10-21,The Piper at the Gates of Dawn,Album,1-3,78d90361-0b8e-404f-8496-b26380f4e050,187
+Pink Floyd,Lucifer Sam,1967-10-21,The Piper at the Gates of Dawn,Album,1-4,890c83bb-a03c-4593-8604-6cebf4c34f6e,189
+Pink Floyd,Matilda Mother,1967-10-21,The Piper at the Gates of Dawn,Album,1-5,56383f82-3bba-45a2-b6bf-bb19e5f3963e,185
+Pink Floyd,Scarecrow,1967-10-21,The Piper at the Gates of Dawn,Album,1-6,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,The Gnome,1967-10-21,The Piper at the Gates of Dawn,Album,1-7,50871af0-161b-4fb4-9d88-bc0511337c55,134
+Pink Floyd,Chapter 24,1967-10-21,The Piper at the Gates of Dawn,Album,1-8,2245c328-9b02-4bd1-b511-6dc619dc916f,233
+Pink Floyd,Interstellar Overdrive,1967-10-21,The Piper at the Gates of Dawn,Album,1-9,b2533982-d397-4bf3-bdae-37a97ccf3277,581
+Pink Floyd,Point Me at the Sky,1968-12-17,Point Me at the Sky / Careful With That Axe Eugene,Single,1-1,6a0795b4-cb0d-4c81-872f-c5458e5316dd,217
+Pink Floyd,"Careful With That Axe, Eugene",1968-12-17,Point Me at the Sky / Careful With That Axe Eugene,Single,1-2,a0033ad6-7f9d-41e1-aeed-676243f07fa1,346
+Pink Floyd,Cirrus Minor,1969-07-27,Soundtrack From the Film «More»,Album,1-1,91f221cb-cdee-4a87-a61f-c29276180912,317
+Pink Floyd,The Nile Song,1969-07-27,Soundtrack From the Film «More»,Album,1-2,c36291a6-0554-4d52-9526-39944cefab2f,205
+Pink Floyd,Crying Song,1969-07-27,Soundtrack From the Film «More»,Album,1-3,0b0be85b-e021-4fb8-b09a-241a83f36dbd,213
+Pink Floyd,Up the Khyber,1969-07-27,Soundtrack From the Film «More»,Album,1-4,72e298bf-db17-4cd9-8a33-519243aef912,132
+Pink Floyd,Green Is the Colour,1969-07-27,Soundtrack From the Film «More»,Album,1-5,d745e0e2-5efb-4c7d-a136-6b15fad67ee1,178
+Pink Floyd,Cymbaline,1969-07-27,Soundtrack From the Film «More»,Album,1-6,f23f9a5f-5427-43ab-95fa-8d1a01b9ac48,289
+Pink Floyd,Party Sequence,1969-07-27,Soundtrack From the Film «More»,Album,1-7,507c36ae-abb2-49ae-b930-cec22429d5b8,67
+Pink Floyd,Main Theme,1969-07-27,Soundtrack From the Film «More»,Album,1-8,55084d14-a165-4ab1-ba24-7705df21f586,327
+Pink Floyd,Ibiza Bar,1969-07-27,Soundtrack From the Film «More»,Album,1-9,db93528b-e6df-41fd-a2a3-d9d02508339c,198
+Pink Floyd,More Blues,1969-07-27,Soundtrack From the Film «More»,Album,1-10,d37dae84-8e20-49cf-a62c-3d2c1e187312,132
+Pink Floyd,Quicksilver,1969-07-27,Soundtrack From the Film «More»,Album,1-11,7f4c8467-f6b4-4b8f-91e1-c64cb9c51268,433
+Pink Floyd,A Spanish Piece,1969-07-27,Soundtrack From the Film «More»,Album,1-12,e7b9c987-5e79-4ee5-bd19-d7f7429766fc,65
+Pink Floyd,Dramatic Theme,1969-07-27,Soundtrack From the Film «More»,Album,1-13,2c05c0df-32c7-4956-9139-dc6b22d6a649,135
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,f1e5817d-1de3-4539-9216-6c85c676ca7e,127
+Pink Floyd,Flaming (mono) (US single),1967-11-02,Flaming,Single,1-1,05600fd1-a8ec-44f0-9514-7e33408df285,167
+Pink Floyd,The Gnome,1967-11-02,Flaming,Single,1-2,50871af0-161b-4fb4-9d88-bc0511337c55,134
+Pink Floyd,Atom Heart Mother: a) Father’s Shout / b) Breast Milky / c) Mother Fore / d) Funky Dung / e) Mind Your Throats Please / f) Remergence,1970-10-10,Atom Heart Mother,Album,1-1,5188780a-b68d-4886-89a5-f6c4d34a5f14,1424
+Pink Floyd,If,1970-10-10,Atom Heart Mother,Album,1-2,d68bbb96-9f50-4a55-9a65-18d720290306,270
+Pink Floyd,Summer ’68,1970-10-10,Atom Heart Mother,Album,1-3,ee954421-26a1-43da-ac29-c1c34c53b151,329
+Pink Floyd,Fat Old Sun,1970-10-10,Atom Heart Mother,Album,1-4,8ff6e056-f471-4410-9740-93b8aa34bdec,322
+Pink Floyd,Alan’s Psychedelic Breakfast: a) Rise and Shine / b) Sunny Side Up / c) Morning Glory,1970-10-10,Atom Heart Mother,Album,1-5,4125f51d-1938-403f-9b64-e45a400ef790,780
+Pink Floyd,See Emily Play,1967,The Piper at the Gates of Dawn,Album,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Pow R. Toc H.,1967,The Piper at the Gates of Dawn,Album,1-2,02f4c4f0-a088-4384-8ae2-d67b9ea69b77,256
+Pink Floyd,Take Up Thy Stethoscope and Walk,1967,The Piper at the Gates of Dawn,Album,1-3,78d90361-0b8e-404f-8496-b26380f4e050,187
+Pink Floyd,Lucifer Sam,1967,The Piper at the Gates of Dawn,Album,1-4,890c83bb-a03c-4593-8604-6cebf4c34f6e,189
+Pink Floyd,Matilda Mother,1967,The Piper at the Gates of Dawn,Album,1-5,4512c045-23bc-4bca-aef5-0a3f8bd2d071,179
+Pink Floyd,Scarecrow,1967,The Piper at the Gates of Dawn,Album,1-6,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,The Gnome,1967,The Piper at the Gates of Dawn,Album,1-7,50871af0-161b-4fb4-9d88-bc0511337c55,134
+Pink Floyd,Chapter 24,1967,The Piper at the Gates of Dawn,Album,1-8,2245c328-9b02-4bd1-b511-6dc619dc916f,233
+Pink Floyd,Interstellar Overdrive,1967,The Piper at the Gates of Dawn,Album,1-9,b2533982-d397-4bf3-bdae-37a97ccf3277,581
+Pink Floyd,See Emily Play,1967-07-24,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-07-24,See Emily Play,Single,1-2,f1e5817d-1de3-4539-9216-6c85c676ca7e,127
+Pink Floyd,Let There Be More Light,1968-08-19,Let There Be More Light / Remember a Day,Single,1-1,5aa9d163-008b-4b9b-a9fb-a8815e52cf1f,179
+Pink Floyd,Remember a Day,1968-08-19,Let There Be More Light / Remember a Day,Single,1-2,067f8095-f241-42c1-9fc3-304d9b98c8f1,160
+Pink Floyd,Astronomy Domine,1967-07-07,The Piper at the Gates of Dawn,Album,1-1,d089a88a-f055-4dac-8d5b-0738a99ffaf5,255
+Pink Floyd,Lucifer Sam,1967-07-07,The Piper at the Gates of Dawn,Album,1-2,890c83bb-a03c-4593-8604-6cebf4c34f6e,189
+Pink Floyd,Matilda Mother,1967-07-07,The Piper at the Gates of Dawn,Album,1-3,56383f82-3bba-45a2-b6bf-bb19e5f3963e,185
+Pink Floyd,Flaming,1967-07-07,The Piper at the Gates of Dawn,Album,1-4,fc47e5e6-0cdd-43ed-8dff-986e356d67a2,166
+Pink Floyd,Pow R. Toc H.,1967-07-07,The Piper at the Gates of Dawn,Album,1-5,cd58d6ff-75c3-4f65-abdc-b52373c2da11,265
+Pink Floyd,Take Up Thy Stethoscope and Walk,1967-07-07,The Piper at the Gates of Dawn,Album,1-6,78d90361-0b8e-404f-8496-b26380f4e050,187
+Pink Floyd,Interstellar Overdrive,1967-07-07,The Piper at the Gates of Dawn,Album,1-7,b2533982-d397-4bf3-bdae-37a97ccf3277,581
+Pink Floyd,The Gnome,1967-07-07,The Piper at the Gates of Dawn,Album,1-8,50871af0-161b-4fb4-9d88-bc0511337c55,134
+Pink Floyd,Chapter 24,1967-07-07,The Piper at the Gates of Dawn,Album,1-9,2245c328-9b02-4bd1-b511-6dc619dc916f,233
+Pink Floyd,Scarecrow,1967-07-07,The Piper at the Gates of Dawn,Album,1-10,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,Bike,1967-07-07,The Piper at the Gates of Dawn,Album,1-11,c169ad48-6fe4-4b89-a468-9071ad24ba2c,207
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,See Emily Play,1969,The Piper at the Gates of Dawn,Album,1-1,da0f10a1-5a5d-48df-bfe6-61b2ba603eda,170
+Pink Floyd,Pow R. Toc H.,1969,The Piper at the Gates of Dawn,Album,1-2,46ac85f2-743b-46e2-8761-d801045c37b6,256
+Pink Floyd,Take Up Thy Stethoscope and Walk,1969,The Piper at the Gates of Dawn,Album,1-3,1e59adac-f3d4-4d0c-a892-80a84a4b5ca9,185
+Pink Floyd,Lucifer Sam,1969,The Piper at the Gates of Dawn,Album,1-4,1d1504f2-9f84-4c93-8356-85c014c4537a,187
+Pink Floyd,Matilda Mother,1969,The Piper at the Gates of Dawn,Album,1-5,c49513fc-9b34-45c8-82a7-25381d8bd6c6,179
+Pink Floyd,The Scarecrow,1969,The Piper at the Gates of Dawn,Album,1-6,3624dac2-48b6-4a0f-9467-3219293ec797,131
+Pink Floyd,The Gnome,1969,The Piper at the Gates of Dawn,Album,1-7,f2db360d-a43e-4b12-beeb-29457fe9416c,133
+Pink Floyd,Chapter 24,1969,The Piper at the Gates of Dawn,Album,1-8,4c85fa80-1949-44f4-9f00-525d630e30b0,231
+Pink Floyd,Interstellar Overdrive,1969,The Piper at the Gates of Dawn,Album,1-9,ba53d361-fec6-478f-8bfb-ad5cd7f19a8b,581
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,f1e5817d-1de3-4539-9216-6c85c676ca7e,127
+Pink Floyd,Atom Heart Mother: a) Father’s Shout / b) Breast Milky / c) Mother Fore / d) Funky Dung / e) Mind Your Throats Please / f) Remergence,1970-10-10,Atom Heart Mother,Album,1-1,5188780a-b68d-4886-89a5-f6c4d34a5f14,1424
+Pink Floyd,If,1970-10-10,Atom Heart Mother,Album,1-2,d68bbb96-9f50-4a55-9a65-18d720290306,270
+Pink Floyd,Summer ’68,1970-10-10,Atom Heart Mother,Album,1-3,ee954421-26a1-43da-ac29-c1c34c53b151,329
+Pink Floyd,Fat Old Sun,1970-10-10,Atom Heart Mother,Album,1-4,8ff6e056-f471-4410-9740-93b8aa34bdec,322
+Pink Floyd,Alan’s Psychedelic Breakfast: a) Rise and Shine / b) Sunny Side Up / c) Morning Glory,1970-10-10,Atom Heart Mother,Album,1-5,4125f51d-1938-403f-9b64-e45a400ef790,780
+Pink Floyd,It Would Be So Nice,1968-06-03,It Would Be So Nice / Julia Dream,Single,1-1,1acdce4d-9c52-49ea-b279-6f610398d239,190
+Pink Floyd,Julia Dream,1968-06-03,It Would Be So Nice / Julia Dream,Single,1-2,2dcc11bb-d0d0-47d1-b43e-16e4496d8616,155
+Pink Floyd,Astronomy Domine,1970,Ummagumma,Album,1-1,e9c5b049-4bcd-4556-a86b-8759d1ac26fb,510
+Pink Floyd,"Careful With That Axe, Eugene",1970,Ummagumma,Album,1-2,da914c0f-7b01-4cea-ba9b-b27c7e8ff32b,530
+Pink Floyd,Set the Controls for the Heart of the Sun,1970,Ummagumma,Album,1-3,238e2ad7-599c-4c95-9f0f-61623d67832b,552
+Pink Floyd,A Saucerful of Secrets,1970,Ummagumma,Album,1-4,fa502033-1a08-4cf7-b0f5-7a352f47c25c,769
+Pink Floyd,"Sysyphus - Parts 1, 2, 3 & 4",1970,Ummagumma,Album,2-1,1eca081c-e5b5-423d-b556-e944510fd94d,807
+Pink Floyd,Grantchester Meadows,1970,Ummagumma,Album,2-2,f928b95a-6aa6-47fb-b6a2-8649eb73465e,447
+Pink Floyd,Several Species of Small Furry Animals Gathered Together in a Cave and Grooving With a Pict,1970,Ummagumma,Album,2-3,84abfa00-de53-495e-82b7-45cde5102199,299
+Pink Floyd,"The Narrow Way, Parts 1–3",1970,Ummagumma,Album,2-4,c5029c50-6090-4b41-9fc8-84bdb578c8a8,732
+Pink Floyd,"The Grand Vizier’s Garden Party, Part 1: Entrance / Part 2: Entertainment / Part 3: Exit",1970,Ummagumma,Album,2-5,b4b23a6e-4292-4087-8a59-1a7975e63845,532
+Pink Floyd,Arnold Layne,1967-04-24,Arnold Layne,Single,1-1,b85dff73-d90f-4e33-8ad1-afebb1c3f2c0,175
+Pink Floyd,Candy and a Currant Bun,1967-04-24,Arnold Layne,Single,1-2,9963f406-8840-4e48-acb9-6bdba69d0507,165
+Pink Floyd,Let There Be More Light,1968-06,A Saucerful of Secrets,Album,1-1,daaa9828-702a-4e14-8f3f-af9f24171c52,338
+Pink Floyd,Remember a Day,1968-06,A Saucerful of Secrets,Album,1-2,819f4310-f15c-498c-b6db-f62cd6e0fcc7,272
+Pink Floyd,Set the Controls for the Heart of the Sun,1968-06,A Saucerful of Secrets,Album,1-3,ccbb51ad-20b2-477f-a6a2-d3ca9cba2986,327
+Pink Floyd,Corporal Clegg,1968-06,A Saucerful of Secrets,Album,1-4,eeeea119-2c33-4c79-9728-96acec22ed6b,252
+Pink Floyd,A Saucerful of Secrets,1968-06,A Saucerful of Secrets,Album,1-5,610b11cf-ecb0-41a9-a3f2-3d40c74f9d6b,716
+Pink Floyd,See‐Saw,1968-06,A Saucerful of Secrets,Album,1-6,e83cf779-6547-4947-be4f-fe46c5b98592,276
+Pink Floyd,Jugband Blues,1968-06,A Saucerful of Secrets,Album,1-7,f56c98a4-ed4b-4afc-8306-cdc8e07cd03d,180
+Pink Floyd,Atom Heart Mother: a) Father’s Shout / b) Breast Milky / c) Mother Fore / d) Funky Dung / e) Mind Your Throats Please / f) Remergence,1970,Atom Heart Mother,Album,1-1,5188780a-b68d-4886-89a5-f6c4d34a5f14,1424
+Pink Floyd,If,1970,Atom Heart Mother,Album,1-2,d68bbb96-9f50-4a55-9a65-18d720290306,270
+Pink Floyd,Summer ’68,1970,Atom Heart Mother,Album,1-3,ee954421-26a1-43da-ac29-c1c34c53b151,329
+Pink Floyd,Fat Old Sun,1970,Atom Heart Mother,Album,1-4,8ff6e056-f471-4410-9740-93b8aa34bdec,322
+Pink Floyd,Alan’s Psychedelic Breakfast: a) Rise and Shine / b) Sunny Side Up / c) Morning Glory,1970,Atom Heart Mother,Album,1-5,4125f51d-1938-403f-9b64-e45a400ef790,780
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,Atom Heart Mother,1970,Atom Heart Mother,Album,1-1,8d85d904-bbbb-475b-95a7-7c2809e50ed2,1415
+Pink Floyd,If,1970,Atom Heart Mother,Album,1-2,29de107c-a8e3-4122-9844-6388dadc7136,270
+Pink Floyd,Summer ’68,1970,Atom Heart Mother,Album,1-3,b0ffc9d5-922c-46ff-bcd5-d5da2387e195,328
+Pink Floyd,Fat Old Sun,1970,Atom Heart Mother,Album,1-4,54ec16b6-3a0f-41c3-b626-e234bf7238ee,335
+Pink Floyd,Alan’s Psychedelic Breakfast: a) Rise and Shine / b) Sunny Side Up / c) Morning Glory,1970,Atom Heart Mother,Album,1-5,508ae9dc-00da-473f-bf54-e038e0aed371,780
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,Let There Be More Light,1968,A Saucerful of Secrets,Album,1-1,cf5f9f00-42c0-4192-9295-82f1f4553f8e,326
+Pink Floyd,Remember a Day,1968,A Saucerful of Secrets,Album,1-2,cfe890ca-0f8c-4dcd-9c85-14b0260c7bce,265
+Pink Floyd,Set the Controls for the Heart of the Sun,1968,A Saucerful of Secrets,Album,1-3,d735689c-b2b3-4276-b328-b02e9e88d186,330
+Pink Floyd,Corporal Clegg,1968,A Saucerful of Secrets,Album,1-4,69116d37-d556-4c4b-8efb-0755e6a5234c,247
+Pink Floyd,A Saucerful of Secrets,1968,A Saucerful of Secrets,Album,1-5,40e5fb6b-0068-4b73-892c-eebd9efc66c2,714
+Pink Floyd,See‐Saw,1968,A Saucerful of Secrets,Album,1-6,5bd41762-a3c9-453b-9c7b-7f193ff1acf6,275
+Pink Floyd,Jugband Blues,1968,A Saucerful of Secrets,Album,1-7,836bcdc0-8d47-4c4b-b212-4942988ba846,181
+Pink Floyd,Atom Heart Mother: a) Father’s Shout / b) Breast Milky / c) Mother Fore / d) Funky Dung / e) Mind Your Throats Please / f) Remergence,1970,Atom Heart Mother,Album,1-1,5188780a-b68d-4886-89a5-f6c4d34a5f14,1424
+Pink Floyd,If,1970,Atom Heart Mother,Album,1-2,d68bbb96-9f50-4a55-9a65-18d720290306,270
+Pink Floyd,Summer ’68,1970,Atom Heart Mother,Album,1-3,ee954421-26a1-43da-ac29-c1c34c53b151,329
+Pink Floyd,Fat Old Sun,1970,Atom Heart Mother,Album,1-4,8ff6e056-f471-4410-9740-93b8aa34bdec,322
+Pink Floyd,Alan’s Psychedelic Breakfast: a) Rise and Shine / b) Sunny Side Up / c) Morning Glory,1970,Atom Heart Mother,Album,1-5,4125f51d-1938-403f-9b64-e45a400ef790,780
+Pink Floyd,Astronomy Domine,1969,The Piper at the Gates of Dawn,Album,1-1,d089a88a-f055-4dac-8d5b-0738a99ffaf5,255
+Pink Floyd,Lucifer Sam,1969,The Piper at the Gates of Dawn,Album,1-2,890c83bb-a03c-4593-8604-6cebf4c34f6e,189
+Pink Floyd,Matilda Mother,1969,The Piper at the Gates of Dawn,Album,1-3,56383f82-3bba-45a2-b6bf-bb19e5f3963e,185
+Pink Floyd,Flaming,1969,The Piper at the Gates of Dawn,Album,1-4,fc47e5e6-0cdd-43ed-8dff-986e356d67a2,166
+Pink Floyd,Pow R. Toc H.,1969,The Piper at the Gates of Dawn,Album,1-5,cd58d6ff-75c3-4f65-abdc-b52373c2da11,265
+Pink Floyd,Take Up Thy Stethoscope and Walk,1969,The Piper at the Gates of Dawn,Album,1-6,78d90361-0b8e-404f-8496-b26380f4e050,187
+Pink Floyd,Interstellar Overdrive,1969,The Piper at the Gates of Dawn,Album,1-7,b2533982-d397-4bf3-bdae-37a97ccf3277,581
+Pink Floyd,The Gnome,1969,The Piper at the Gates of Dawn,Album,1-8,50871af0-161b-4fb4-9d88-bc0511337c55,134
+Pink Floyd,Chapter 24,1969,The Piper at the Gates of Dawn,Album,1-9,2245c328-9b02-4bd1-b511-6dc619dc916f,233
+Pink Floyd,Scarecrow,1969,The Piper at the Gates of Dawn,Album,1-10,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,Bike,1969,The Piper at the Gates of Dawn,Album,1-11,c169ad48-6fe4-4b89-a468-9071ad24ba2c,207
+Pink Floyd,See Emily Play,1967-07-14,See Emily Play / Scarecrow,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-07-14,See Emily Play / Scarecrow,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,Apples and Oranges,1967-11-18,Apples and Oranges,Single,1-1,ed8e50bc-58bb-4ffd-84cc-b6f342852a15,185
+Pink Floyd,Paintbox,1967-11-18,Apples and Oranges,Single,1-2,7849dc16-1100-467f-b360-3acf0eebc2d5,226
+Pink Floyd,Astronomy Domine,1969,Ummagumma,Album,1-1,e9c5b049-4bcd-4556-a86b-8759d1ac26fb,510
+Pink Floyd,"Careful With That Axe, Eugene",1969,Ummagumma,Album,1-2,da914c0f-7b01-4cea-ba9b-b27c7e8ff32b,530
+Pink Floyd,Set the Controls for the Heart of the Sun,1969,Ummagumma,Album,1-3,f4386ac7-5bfa-4492-8688-7f5fb50af800,567
+Pink Floyd,A Saucerful of Secrets,1969,Ummagumma,Album,1-4,fa502033-1a08-4cf7-b0f5-7a352f47c25c,769
+Pink Floyd,"Sysyphus, Part I",1969,Ummagumma,Album,2-1,262e8aca-bd14-4440-a7dc-2344dc80c68c,269
+Pink Floyd,"Sysyphus, Part II",1969,Ummagumma,Album,2-2,afdc4611-932f-4cda-a77b-70283e88bcce,105
+Pink Floyd,"Sysyphus, Part III",1969,Ummagumma,Album,2-3,e1fe65d2-ec0d-4b40-950f-527019dba6b4,187
+Pink Floyd,"Sysyphus, Part IV",1969,Ummagumma,Album,2-4,a675cbe1-f9ee-4536-b0cc-a0b2425e7a74,218
+Pink Floyd,Grantchester Meadows,1969,Ummagumma,Album,2-5,f928b95a-6aa6-47fb-b6a2-8649eb73465e,447
+Pink Floyd,Several Species of Small Furry Animals Gathered Together in a Cave and Grooving With a Pict,1969,Ummagumma,Album,2-6,56ddb467-f218-4dfb-8d46-9938e9f630f9,287
+Pink Floyd,"The Narrow Way, Parts 1–3",1969,Ummagumma,Album,2-7,c5029c50-6090-4b41-9fc8-84bdb578c8a8,732
+Pink Floyd,"The Grand Vizier’s Garden Party, Part 1: Entrance / Part 2: Entertainment / Part 3: Exit",1969,Ummagumma,Album,2-8,b4b23a6e-4292-4087-8a59-1a7975e63845,532
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,It Would Be So Nice,1968-04-12,It Would Be So Nice / Julia Dream,Single,1-1,ca25a870-6b8d-4c44-b684-a40644c26079,224
+Pink Floyd,Julia Dream,1968-04-12,It Would Be So Nice / Julia Dream,Single,1-2,2dcc11bb-d0d0-47d1-b43e-16e4496d8616,155
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,See Emily Play,1967-10-21,The Piper at the Gates of Dawn,Album,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Pow R. Toc H.,1967-10-21,The Piper at the Gates of Dawn,Album,1-2,46ac85f2-743b-46e2-8761-d801045c37b6,256
+Pink Floyd,Take Up Thy Stethoscope and Walk,1967-10-21,The Piper at the Gates of Dawn,Album,1-3,1e59adac-f3d4-4d0c-a892-80a84a4b5ca9,185
+Pink Floyd,Lucifer Sam,1967-10-21,The Piper at the Gates of Dawn,Album,1-4,1d1504f2-9f84-4c93-8356-85c014c4537a,187
+Pink Floyd,Matilda Mother,1967-10-21,The Piper at the Gates of Dawn,Album,1-5,c49513fc-9b34-45c8-82a7-25381d8bd6c6,179
+Pink Floyd,The Scarecrow,1967-10-21,The Piper at the Gates of Dawn,Album,1-6,3624dac2-48b6-4a0f-9467-3219293ec797,131
+Pink Floyd,The Gnome,1967-10-21,The Piper at the Gates of Dawn,Album,1-7,f2db360d-a43e-4b12-beeb-29457fe9416c,133
+Pink Floyd,Chapter 24,1967-10-21,The Piper at the Gates of Dawn,Album,1-8,4c85fa80-1949-44f4-9f00-525d630e30b0,231
+Pink Floyd,Interstellar Overdrive,1967-10-21,The Piper at the Gates of Dawn,Album,1-9,ba53d361-fec6-478f-8bfb-ad5cd7f19a8b,581
+Pink Floyd,Astronomy Domine,1969-11-10,Ummagumma,Album,1-1,e9c5b049-4bcd-4556-a86b-8759d1ac26fb,510
+Pink Floyd,"Careful With That Axe, Eugene",1969-11-10,Ummagumma,Album,1-2,da914c0f-7b01-4cea-ba9b-b27c7e8ff32b,530
+Pink Floyd,Set the Controls for the Heart of the Sun,1969-11-10,Ummagumma,Album,1-3,f4386ac7-5bfa-4492-8688-7f5fb50af800,567
+Pink Floyd,A Saucerful of Secrets,1969-11-10,Ummagumma,Album,1-4,fa502033-1a08-4cf7-b0f5-7a352f47c25c,769
+Pink Floyd,"Sysyphus, Part I",1969-11-10,Ummagumma,Album,2-1,262e8aca-bd14-4440-a7dc-2344dc80c68c,269
+Pink Floyd,"Sysyphus, Part II",1969-11-10,Ummagumma,Album,2-2,afdc4611-932f-4cda-a77b-70283e88bcce,105
+Pink Floyd,"Sysyphus, Part III",1969-11-10,Ummagumma,Album,2-3,e1fe65d2-ec0d-4b40-950f-527019dba6b4,187
+Pink Floyd,"Sysyphus, Part IV",1969-11-10,Ummagumma,Album,2-4,a675cbe1-f9ee-4536-b0cc-a0b2425e7a74,218
+Pink Floyd,Grantchester Meadows,1969-11-10,Ummagumma,Album,2-5,f928b95a-6aa6-47fb-b6a2-8649eb73465e,447
+Pink Floyd,Several Species of Small Furry Animals Gathered Together in a Cave and Grooving With a Pict,1969-11-10,Ummagumma,Album,2-6,56ddb467-f218-4dfb-8d46-9938e9f630f9,287
+Pink Floyd,"The Narrow Way, Parts 1–3",1969-11-10,Ummagumma,Album,2-7,c5029c50-6090-4b41-9fc8-84bdb578c8a8,732
+Pink Floyd,"The Grand Vizier’s Garden Party, Part 1: Entrance / Part 2: Entertainment / Part 3: Exit",1969-11-10,Ummagumma,Album,2-8,b4b23a6e-4292-4087-8a59-1a7975e63845,532
+Pink Floyd,Astronomy Domine,1967,The Piper at the Gates of Dawn,Album,1-1,45e08e33-8432-4b9a-bc3b-1358c2cfd1af,252
+Pink Floyd,Lucifer Sam,1967,The Piper at the Gates of Dawn,Album,1-2,1d1504f2-9f84-4c93-8356-85c014c4537a,187
+Pink Floyd,Matilda Mother,1967,The Piper at the Gates of Dawn,Album,1-3,234137c4-9e43-47d3-b7ca-36c5f81f98c5,188
+Pink Floyd,Flaming,1967,The Piper at the Gates of Dawn,Album,1-4,c1295ed9-4821-4727-9a8c-71433c8a80b7,166
+Pink Floyd,Pow R. Toc H.,1967,The Piper at the Gates of Dawn,Album,1-5,2bf00fb2-7ec0-469e-82be-b72b1eaaf467,266
+Pink Floyd,Bike,1967,The Piper at the Gates of Dawn,Album,1-6,1c42ff6c-6c59-40ef-9564-a935b3551949,201
+Pink Floyd,Interstellar Overdrive,1967,The Piper at the Gates of Dawn,Album,1-7,ba53d361-fec6-478f-8bfb-ad5cd7f19a8b,581
+Pink Floyd,The Gnome,1967,The Piper at the Gates of Dawn,Album,1-8,f2db360d-a43e-4b12-beeb-29457fe9416c,133
+Pink Floyd,Chapter 24,1967,The Piper at the Gates of Dawn,Album,1-9,5204eeaa-c84a-4edd-802e-d1e4c32d58ae,222
+Pink Floyd,The Scarecrow,1967,The Piper at the Gates of Dawn,Album,1-10,3624dac2-48b6-4a0f-9467-3219293ec797,131
+Pink Floyd,Take Up Thy Stethoscope and Walk,1967,The Piper at the Gates of Dawn,Album,1-11,1e59adac-f3d4-4d0c-a892-80a84a4b5ca9,185
+Pink Floyd,Atom Heart Mother: a) Father’s Shout / b) Breast Milky / c) Mother Fore / d) Funky Dung / e) Mind Your Throats Please / f) Remergence,1970,Atom Heart Mother,Album,1-1,5188780a-b68d-4886-89a5-f6c4d34a5f14,1424
+Pink Floyd,If,1970,Atom Heart Mother,Album,1-2,d68bbb96-9f50-4a55-9a65-18d720290306,270
+Pink Floyd,Summer ’68,1970,Atom Heart Mother,Album,1-3,ee954421-26a1-43da-ac29-c1c34c53b151,329
+Pink Floyd,Fat Old Sun,1970,Atom Heart Mother,Album,1-4,8ff6e056-f471-4410-9740-93b8aa34bdec,322
+Pink Floyd,Alan’s Psychedelic Breakfast: a) Rise and Shine / b) Sunny Side Up / c) Morning Glory,1970,Atom Heart Mother,Album,1-5,4125f51d-1938-403f-9b64-e45a400ef790,780
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,Arnold Layne,1967,Arnold Layne,Single,1-1,b85dff73-d90f-4e33-8ad1-afebb1c3f2c0,175
+Pink Floyd,Candy and a Currant Bun,1967,Arnold Layne,Single,1-2,9963f406-8840-4e48-acb9-6bdba69d0507,165
+Pink Floyd,Interstellar Overdrive,1967,Arnold Layne,Single,1-3,549b4d5d-96bf-4f89-9da0-9405501121a5,313
+Pink Floyd,Let There Be More Light,1968-06-29,A Saucerful of Secrets,Album,1-1,daaa9828-702a-4e14-8f3f-af9f24171c52,338
+Pink Floyd,Remember a Day,1968-06-29,A Saucerful of Secrets,Album,1-2,819f4310-f15c-498c-b6db-f62cd6e0fcc7,272
+Pink Floyd,Set the Controls for the Heart of the Sun,1968-06-29,A Saucerful of Secrets,Album,1-3,ccbb51ad-20b2-477f-a6a2-d3ca9cba2986,327
+Pink Floyd,Corporal Clegg,1968-06-29,A Saucerful of Secrets,Album,1-4,eeeea119-2c33-4c79-9728-96acec22ed6b,252
+Pink Floyd,A Saucerful of Secrets,1968-06-29,A Saucerful of Secrets,Album,1-5,610b11cf-ecb0-41a9-a3f2-3d40c74f9d6b,716
+Pink Floyd,See‐Saw,1968-06-29,A Saucerful of Secrets,Album,1-6,e83cf779-6547-4947-be4f-fe46c5b98592,276
+Pink Floyd,Jugband Blues,1968-06-29,A Saucerful of Secrets,Album,1-7,f56c98a4-ed4b-4afc-8306-cdc8e07cd03d,180
+Pink Floyd,Astronomy Domine,1969-10-25,Ummagumma,Album,1-1,e9c5b049-4bcd-4556-a86b-8759d1ac26fb,510
+Pink Floyd,"Careful With That Axe, Eugene",1969-10-25,Ummagumma,Album,1-2,da914c0f-7b01-4cea-ba9b-b27c7e8ff32b,530
+Pink Floyd,Set the Controls for the Heart of the Sun,1969-10-25,Ummagumma,Album,1-3,238e2ad7-599c-4c95-9f0f-61623d67832b,552
+Pink Floyd,A Saucerful of Secrets,1969-10-25,Ummagumma,Album,1-4,fa502033-1a08-4cf7-b0f5-7a352f47c25c,769
+Pink Floyd,"Sysyphus - Parts 1, 2, 3 & 4",1969-10-25,Ummagumma,Album,2-1,1eca081c-e5b5-423d-b556-e944510fd94d,807
+Pink Floyd,Grantchester Meadows,1969-10-25,Ummagumma,Album,2-2,f928b95a-6aa6-47fb-b6a2-8649eb73465e,447
+Pink Floyd,Several Species of Small Furry Animals Gathered Together in a Cave and Grooving With a Pict,1969-10-25,Ummagumma,Album,2-3,84abfa00-de53-495e-82b7-45cde5102199,299
+Pink Floyd,"The Narrow Way, Parts 1–3",1969-10-25,Ummagumma,Album,2-4,c5029c50-6090-4b41-9fc8-84bdb578c8a8,732
+Pink Floyd,"The Grand Vizier’s Garden Party, Part 1: Entrance / Part 2: Entertainment / Part 3: Exit",1969-10-25,Ummagumma,Album,2-5,b4b23a6e-4292-4087-8a59-1a7975e63845,532
+Pink Floyd,Apples and Oranges,1967-11-18,Apples and Oranges,Single,1-1,ed8e50bc-58bb-4ffd-84cc-b6f342852a15,185
+Pink Floyd,Paintbox,1967-11-18,Apples and Oranges,Single,1-2,7849dc16-1100-467f-b360-3acf0eebc2d5,226
+Pink Floyd,Astronomy Domine,1967,The Piper at the Gates of Dawn,Album,1-1,45e08e33-8432-4b9a-bc3b-1358c2cfd1af,252
+Pink Floyd,Lucifer Sam,1967,The Piper at the Gates of Dawn,Album,1-2,1d1504f2-9f84-4c93-8356-85c014c4537a,187
+Pink Floyd,Matilda Mother,1967,The Piper at the Gates of Dawn,Album,1-3,234137c4-9e43-47d3-b7ca-36c5f81f98c5,188
+Pink Floyd,Flaming,1967,The Piper at the Gates of Dawn,Album,1-4,c1295ed9-4821-4727-9a8c-71433c8a80b7,166
+Pink Floyd,Pow R. Toc H.,1967,The Piper at the Gates of Dawn,Album,1-5,2bf00fb2-7ec0-469e-82be-b72b1eaaf467,266
+Pink Floyd,Take Up Thy Stethoscope and Walk,1967,The Piper at the Gates of Dawn,Album,1-6,1e59adac-f3d4-4d0c-a892-80a84a4b5ca9,185
+Pink Floyd,Interstellar Overdrive,1967,The Piper at the Gates of Dawn,Album,1-7,ba53d361-fec6-478f-8bfb-ad5cd7f19a8b,581
+Pink Floyd,The Gnome,1967,The Piper at the Gates of Dawn,Album,1-8,f2db360d-a43e-4b12-beeb-29457fe9416c,133
+Pink Floyd,Chapter 24,1967,The Piper at the Gates of Dawn,Album,1-9,5204eeaa-c84a-4edd-802e-d1e4c32d58ae,222
+Pink Floyd,The Scarecrow,1967,The Piper at the Gates of Dawn,Album,1-10,3624dac2-48b6-4a0f-9467-3219293ec797,131
+Pink Floyd,Bike,1967,The Piper at the Gates of Dawn,Album,1-11,1c42ff6c-6c59-40ef-9564-a935b3551949,201
+Pink Floyd,The Nile Song,1969,The Nile Song / Main Theme,Single,1-1,c36291a6-0554-4d52-9526-39944cefab2f,205
+Pink Floyd,Main Theme,1969,The Nile Song / Main Theme,Single,1-2,f062cfda-0914-4d98-a019-b045ff00a859,330
+Pink Floyd,Astronomy Domine,1967-08-05,The Piper at the Gates of Dawn,Album,1-1,d089a88a-f055-4dac-8d5b-0738a99ffaf5,255
+Pink Floyd,Lucifer Sam,1967-08-05,The Piper at the Gates of Dawn,Album,1-2,890c83bb-a03c-4593-8604-6cebf4c34f6e,189
+Pink Floyd,Matilda Mother,1967-08-05,The Piper at the Gates of Dawn,Album,1-3,56383f82-3bba-45a2-b6bf-bb19e5f3963e,185
+Pink Floyd,Flaming,1967-08-05,The Piper at the Gates of Dawn,Album,1-4,fc47e5e6-0cdd-43ed-8dff-986e356d67a2,166
+Pink Floyd,Pow R. Toc H.,1967-08-05,The Piper at the Gates of Dawn,Album,1-5,cd58d6ff-75c3-4f65-abdc-b52373c2da11,265
+Pink Floyd,Take Up Thy Stethoscope and Walk,1967-08-05,The Piper at the Gates of Dawn,Album,1-6,78d90361-0b8e-404f-8496-b26380f4e050,187
+Pink Floyd,Interstellar Overdrive,1967-08-05,The Piper at the Gates of Dawn,Album,1-7,b2533982-d397-4bf3-bdae-37a97ccf3277,581
+Pink Floyd,The Gnome,1967-08-05,The Piper at the Gates of Dawn,Album,1-8,50871af0-161b-4fb4-9d88-bc0511337c55,134
+Pink Floyd,Chapter 24,1967-08-05,The Piper at the Gates of Dawn,Album,1-9,2245c328-9b02-4bd1-b511-6dc619dc916f,233
+Pink Floyd,Scarecrow,1967-08-05,The Piper at the Gates of Dawn,Album,1-10,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,Bike,1967-08-05,The Piper at the Gates of Dawn,Album,1-11,c169ad48-6fe4-4b89-a468-9071ad24ba2c,207
+Pink Floyd,Cirrus Minor,1969-09-23,Soundtrack From the Film «More»,Album,1-1,91f221cb-cdee-4a87-a61f-c29276180912,317
+Pink Floyd,The Nile Song,1969-09-23,Soundtrack From the Film «More»,Album,1-2,c36291a6-0554-4d52-9526-39944cefab2f,205
+Pink Floyd,Crying Song,1969-09-23,Soundtrack From the Film «More»,Album,1-3,0b0be85b-e021-4fb8-b09a-241a83f36dbd,213
+Pink Floyd,Up the Khyber,1969-09-23,Soundtrack From the Film «More»,Album,1-4,72e298bf-db17-4cd9-8a33-519243aef912,132
+Pink Floyd,Green Is the Colour,1969-09-23,Soundtrack From the Film «More»,Album,1-5,d745e0e2-5efb-4c7d-a136-6b15fad67ee1,178
+Pink Floyd,Cymbaline,1969-09-23,Soundtrack From the Film «More»,Album,1-6,f23f9a5f-5427-43ab-95fa-8d1a01b9ac48,289
+Pink Floyd,Party Sequence,1969-09-23,Soundtrack From the Film «More»,Album,1-7,507c36ae-abb2-49ae-b930-cec22429d5b8,67
+Pink Floyd,Main Theme,1969-09-23,Soundtrack From the Film «More»,Album,1-8,55084d14-a165-4ab1-ba24-7705df21f586,327
+Pink Floyd,Ibiza Bar,1969-09-23,Soundtrack From the Film «More»,Album,1-9,db93528b-e6df-41fd-a2a3-d9d02508339c,198
+Pink Floyd,More Blues,1969-09-23,Soundtrack From the Film «More»,Album,1-10,d37dae84-8e20-49cf-a62c-3d2c1e187312,132
+Pink Floyd,Quicksilver,1969-09-23,Soundtrack From the Film «More»,Album,1-11,7f4c8467-f6b4-4b8f-91e1-c64cb9c51268,433
+Pink Floyd,A Spanish Piece,1969-09-23,Soundtrack From the Film «More»,Album,1-12,e7b9c987-5e79-4ee5-bd19-d7f7429766fc,65
+Pink Floyd,Dramatic Theme,1969-09-23,Soundtrack From the Film «More»,Album,1-13,2c05c0df-32c7-4956-9139-dc6b22d6a649,135
+Pink Floyd,See Emily Play,1968,The Piper at the Gates of Dawn,Album,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Pow R. Toc H.,1968,The Piper at the Gates of Dawn,Album,1-2,46ac85f2-743b-46e2-8761-d801045c37b6,256
+Pink Floyd,Take Up Thy Stethoscope and Walk,1968,The Piper at the Gates of Dawn,Album,1-3,1e59adac-f3d4-4d0c-a892-80a84a4b5ca9,185
+Pink Floyd,Lucifer Sam,1968,The Piper at the Gates of Dawn,Album,1-4,1d1504f2-9f84-4c93-8356-85c014c4537a,187
+Pink Floyd,Matilda Mother,1968,The Piper at the Gates of Dawn,Album,1-5,c49513fc-9b34-45c8-82a7-25381d8bd6c6,179
+Pink Floyd,The Scarecrow,1968,The Piper at the Gates of Dawn,Album,1-6,3624dac2-48b6-4a0f-9467-3219293ec797,131
+Pink Floyd,The Gnome,1968,The Piper at the Gates of Dawn,Album,1-7,f2db360d-a43e-4b12-beeb-29457fe9416c,133
+Pink Floyd,Chapter 24,1968,The Piper at the Gates of Dawn,Album,1-8,4c85fa80-1949-44f4-9f00-525d630e30b0,231
+Pink Floyd,Interstellar Overdrive,1968,The Piper at the Gates of Dawn,Album,1-9,ba53d361-fec6-478f-8bfb-ad5cd7f19a8b,581
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,See Emily Play,1967,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967,See Emily Play,Single,1-2,f1e5817d-1de3-4539-9216-6c85c676ca7e,127
+Pink Floyd,Astronomy Domine,1969,Ummagumma,Album,1-1,e9c5b049-4bcd-4556-a86b-8759d1ac26fb,510
+Pink Floyd,"Careful With That Axe, Eugene",1969,Ummagumma,Album,1-2,da914c0f-7b01-4cea-ba9b-b27c7e8ff32b,530
+Pink Floyd,Set the Controls for the Heart of the Sun,1969,Ummagumma,Album,1-3,238e2ad7-599c-4c95-9f0f-61623d67832b,552
+Pink Floyd,A Saucerful of Secrets,1969,Ummagumma,Album,1-4,fa502033-1a08-4cf7-b0f5-7a352f47c25c,769
+Pink Floyd,"Sysyphus - Parts 1, 2, 3 & 4",1969,Ummagumma,Album,2-1,1eca081c-e5b5-423d-b556-e944510fd94d,807
+Pink Floyd,Grantchester Meadows,1969,Ummagumma,Album,2-2,f928b95a-6aa6-47fb-b6a2-8649eb73465e,447
+Pink Floyd,Several Species of Small Furry Animals Gathered Together in a Cave and Grooving With a Pict,1969,Ummagumma,Album,2-3,84abfa00-de53-495e-82b7-45cde5102199,299
+Pink Floyd,"The Narrow Way, Parts 1–3",1969,Ummagumma,Album,2-4,c5029c50-6090-4b41-9fc8-84bdb578c8a8,732
+Pink Floyd,"The Grand Vizier’s Garden Party, Part 1: Entrance / Part 2: Entertainment / Part 3: Exit",1969,Ummagumma,Album,2-5,b4b23a6e-4292-4087-8a59-1a7975e63845,532
+Pink Floyd,Lucy Leave,1965,Lucy Leave,Single,1-1,c44986b4-f3a0-41cf-84c7-a33504cc2df4,175
+Pink Floyd,I’m a King Bee,1965,Lucy Leave,Single,1-2,b974e657-1505-4e34-8ae8-098aa8ee1f0c,187
+Pink Floyd,Arnold Layne,1967-05,Arnold Layne / Candy and a Currant Bun,Single,1-1,b85dff73-d90f-4e33-8ad1-afebb1c3f2c0,175
+Pink Floyd,Candy and a Currant Bun,1967-05,Arnold Layne / Candy and a Currant Bun,Single,1-2,18af77fb-d190-483e-aad1-a97262a2d330,158
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,f1e5817d-1de3-4539-9216-6c85c676ca7e,127
+Pink Floyd,Arnold Layne,1967-03-11,Arnold Layne / Candy and a Currant Bun,Single,1-1,b85dff73-d90f-4e33-8ad1-afebb1c3f2c0,175
+Pink Floyd,Candy and a Currant Bun,1967-03-11,Arnold Layne / Candy and a Currant Bun,Single,1-2,9963f406-8840-4e48-acb9-6bdba69d0507,165
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130
+Pink Floyd,See Emily Play,1967-06-16,See Emily Play,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-06-16,See Emily Play,Single,1-2,f1e5817d-1de3-4539-9216-6c85c676ca7e,127
+Pink Floyd,Astronomy Domine,1970,The Piper at the Gates of Dawn,Album,1-1,45e08e33-8432-4b9a-bc3b-1358c2cfd1af,252
+Pink Floyd,Lucifer Sam,1970,The Piper at the Gates of Dawn,Album,1-2,1d1504f2-9f84-4c93-8356-85c014c4537a,187
+Pink Floyd,Matilda Mother,1970,The Piper at the Gates of Dawn,Album,1-3,234137c4-9e43-47d3-b7ca-36c5f81f98c5,188
+Pink Floyd,Flaming,1970,The Piper at the Gates of Dawn,Album,1-4,c1295ed9-4821-4727-9a8c-71433c8a80b7,166
+Pink Floyd,Pow R. Toc H.,1970,The Piper at the Gates of Dawn,Album,1-5,2bf00fb2-7ec0-469e-82be-b72b1eaaf467,266
+Pink Floyd,Take Up Thy Stethoscope and Walk,1970,The Piper at the Gates of Dawn,Album,1-6,1e59adac-f3d4-4d0c-a892-80a84a4b5ca9,185
+Pink Floyd,Interstellar Overdrive,1970,The Piper at the Gates of Dawn,Album,1-7,ba53d361-fec6-478f-8bfb-ad5cd7f19a8b,581
+Pink Floyd,The Gnome,1970,The Piper at the Gates of Dawn,Album,1-8,f2db360d-a43e-4b12-beeb-29457fe9416c,133
+Pink Floyd,Chapter 24,1970,The Piper at the Gates of Dawn,Album,1-9,5204eeaa-c84a-4edd-802e-d1e4c32d58ae,222
+Pink Floyd,The Scarecrow,1970,The Piper at the Gates of Dawn,Album,1-10,3624dac2-48b6-4a0f-9467-3219293ec797,131
+Pink Floyd,Bike,1970,The Piper at the Gates of Dawn,Album,1-11,1c42ff6c-6c59-40ef-9564-a935b3551949,201
+Pink Floyd,See Emily Play,1970,The Piper at the Gates of Dawn,Album,1-12,9ff2fd59-47e3-4862-965b-2031ae4e60cc,169
+Pink Floyd,Astronomy Domine,1969,The Piper at the Gates of Dawn,Album,1-1,45e08e33-8432-4b9a-bc3b-1358c2cfd1af,252
+Pink Floyd,Lucifer Sam,1969,The Piper at the Gates of Dawn,Album,1-2,1d1504f2-9f84-4c93-8356-85c014c4537a,187
+Pink Floyd,Matilda Mother,1969,The Piper at the Gates of Dawn,Album,1-3,234137c4-9e43-47d3-b7ca-36c5f81f98c5,188
+Pink Floyd,Flaming,1969,The Piper at the Gates of Dawn,Album,1-4,c1295ed9-4821-4727-9a8c-71433c8a80b7,166
+Pink Floyd,Pow R. Toc H.,1969,The Piper at the Gates of Dawn,Album,1-5,2bf00fb2-7ec0-469e-82be-b72b1eaaf467,266
+Pink Floyd,Take Up Thy Stethoscope and Walk,1969,The Piper at the Gates of Dawn,Album,1-6,1e59adac-f3d4-4d0c-a892-80a84a4b5ca9,185
+Pink Floyd,Interstellar Overdrive,1969,The Piper at the Gates of Dawn,Album,1-7,ba53d361-fec6-478f-8bfb-ad5cd7f19a8b,581
+Pink Floyd,The Gnome,1969,The Piper at the Gates of Dawn,Album,1-8,f2db360d-a43e-4b12-beeb-29457fe9416c,133
+Pink Floyd,Chapter 24,1969,The Piper at the Gates of Dawn,Album,1-9,5204eeaa-c84a-4edd-802e-d1e4c32d58ae,222
+Pink Floyd,The Scarecrow,1969,The Piper at the Gates of Dawn,Album,1-10,3624dac2-48b6-4a0f-9467-3219293ec797,131
+Pink Floyd,Bike,1969,The Piper at the Gates of Dawn,Album,1-11,1c42ff6c-6c59-40ef-9564-a935b3551949,201
+Pink Floyd,See Emily Play,1968,The Piper at the Gates of Dawn,Album,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Pow R. Toc H.,1968,The Piper at the Gates of Dawn,Album,1-2,46ac85f2-743b-46e2-8761-d801045c37b6,256
+Pink Floyd,Take Up Thy Stethoscope and Walk,1968,The Piper at the Gates of Dawn,Album,1-3,1e59adac-f3d4-4d0c-a892-80a84a4b5ca9,185
+Pink Floyd,Lucifer Sam,1968,The Piper at the Gates of Dawn,Album,1-4,1d1504f2-9f84-4c93-8356-85c014c4537a,187
+Pink Floyd,Matilda Mother,1968,The Piper at the Gates of Dawn,Album,1-5,c49513fc-9b34-45c8-82a7-25381d8bd6c6,179
+Pink Floyd,The Scarecrow,1968,The Piper at the Gates of Dawn,Album,1-6,3624dac2-48b6-4a0f-9467-3219293ec797,131
+Pink Floyd,The Gnome,1968,The Piper at the Gates of Dawn,Album,1-7,f2db360d-a43e-4b12-beeb-29457fe9416c,133
+Pink Floyd,Chapter 24,1968,The Piper at the Gates of Dawn,Album,1-8,4c85fa80-1949-44f4-9f00-525d630e30b0,231
+Pink Floyd,Interstellar Overdrive,1968,The Piper at the Gates of Dawn,Album,1-9,ba53d361-fec6-478f-8bfb-ad5cd7f19a8b,581
+Pink Floyd,Cirrus Minor,1969,Soundtrack From the Film “More”,Album,1-1,91f221cb-cdee-4a87-a61f-c29276180912,317
+Pink Floyd,The Nile Song,1969,Soundtrack From the Film “More”,Album,1-2,c36291a6-0554-4d52-9526-39944cefab2f,205
+Pink Floyd,Crying Song,1969,Soundtrack From the Film “More”,Album,1-3,0b0be85b-e021-4fb8-b09a-241a83f36dbd,213
+Pink Floyd,Up the Khyber,1969,Soundtrack From the Film “More”,Album,1-4,72e298bf-db17-4cd9-8a33-519243aef912,132
+Pink Floyd,Green Is the Colour,1969,Soundtrack From the Film “More”,Album,1-5,d745e0e2-5efb-4c7d-a136-6b15fad67ee1,178
+Pink Floyd,Cymbaline,1969,Soundtrack From the Film “More”,Album,1-6,f23f9a5f-5427-43ab-95fa-8d1a01b9ac48,289
+Pink Floyd,Party Sequence,1969,Soundtrack From the Film “More”,Album,1-7,507c36ae-abb2-49ae-b930-cec22429d5b8,67
+Pink Floyd,Main Theme,1969,Soundtrack From the Film “More”,Album,1-8,55084d14-a165-4ab1-ba24-7705df21f586,327
+Pink Floyd,Ibiza Bar,1969,Soundtrack From the Film “More”,Album,1-9,db93528b-e6df-41fd-a2a3-d9d02508339c,198
+Pink Floyd,More Blues,1969,Soundtrack From the Film “More”,Album,1-10,d37dae84-8e20-49cf-a62c-3d2c1e187312,132
+Pink Floyd,Quicksilver,1969,Soundtrack From the Film “More”,Album,1-11,7f4c8467-f6b4-4b8f-91e1-c64cb9c51268,433
+Pink Floyd,A Spanish Piece,1969,Soundtrack From the Film “More”,Album,1-12,e7b9c987-5e79-4ee5-bd19-d7f7429766fc,65
+Pink Floyd,Dramatic Theme,1969,Soundtrack From the Film “More”,Album,1-13,2c05c0df-32c7-4956-9139-dc6b22d6a649,135
+Pink Floyd,Astronomy Domine,1969,Ummagumma,Album,1-1,e9c5b049-4bcd-4556-a86b-8759d1ac26fb,510
+Pink Floyd,"Careful With That Axe, Eugene",1969,Ummagumma,Album,1-2,da914c0f-7b01-4cea-ba9b-b27c7e8ff32b,530
+Pink Floyd,Set the Controls for the Heart of the Sun,1969,Ummagumma,Album,1-3,238e2ad7-599c-4c95-9f0f-61623d67832b,552
+Pink Floyd,A Saucerful of Secrets,1969,Ummagumma,Album,1-4,fa502033-1a08-4cf7-b0f5-7a352f47c25c,769
+Pink Floyd,"Sysyphus, Parts 1, 2, 3 u. 4",1969,Ummagumma,Album,2-1,49059701-bfeb-4acc-9a1a-7565a62933ec,382
+Pink Floyd,Grantchester Meadows,1969,Ummagumma,Album,2-2,f928b95a-6aa6-47fb-b6a2-8649eb73465e,447
+Pink Floyd,Several Species of Small Furry Animals Gathered Together in a Cave and Grooving With a Pict,1969,Ummagumma,Album,2-3,4e002200-4b4c-46ce-aa7c-b3c70b2d8dfa,738
+Pink Floyd,"The Narrow Way, Parts 1–3",1969,Ummagumma,Album,2-4,c5029c50-6090-4b41-9fc8-84bdb578c8a8,732
+Pink Floyd,"The Grand Vizier’s Garden Party, Part 1: Entrance / Part 2: Entertainment / Part 3: Exit",1969,Ummagumma,Album,2-5,b4b23a6e-4292-4087-8a59-1a7975e63845,532
+Pink Floyd,Cirrus Minor,1969-06-13,Soundtrack From the Film “More”,Album,1-1,91f221cb-cdee-4a87-a61f-c29276180912,317
+Pink Floyd,The Nile Song,1969-06-13,Soundtrack From the Film “More”,Album,1-2,c36291a6-0554-4d52-9526-39944cefab2f,205
+Pink Floyd,Crying Song,1969-06-13,Soundtrack From the Film “More”,Album,1-3,0b0be85b-e021-4fb8-b09a-241a83f36dbd,213
+Pink Floyd,Up the Khyber,1969-06-13,Soundtrack From the Film “More”,Album,1-4,72e298bf-db17-4cd9-8a33-519243aef912,132
+Pink Floyd,Green Is the Colour,1969-06-13,Soundtrack From the Film “More”,Album,1-5,d745e0e2-5efb-4c7d-a136-6b15fad67ee1,178
+Pink Floyd,Cymbaline,1969-06-13,Soundtrack From the Film “More”,Album,1-6,f23f9a5f-5427-43ab-95fa-8d1a01b9ac48,289
+Pink Floyd,Party Sequence,1969-06-13,Soundtrack From the Film “More”,Album,1-7,507c36ae-abb2-49ae-b930-cec22429d5b8,67
+Pink Floyd,Main Theme,1969-06-13,Soundtrack From the Film “More”,Album,1-8,55084d14-a165-4ab1-ba24-7705df21f586,327
+Pink Floyd,Ibiza Bar,1969-06-13,Soundtrack From the Film “More”,Album,1-9,db93528b-e6df-41fd-a2a3-d9d02508339c,198
+Pink Floyd,More Blues,1969-06-13,Soundtrack From the Film “More”,Album,1-10,d37dae84-8e20-49cf-a62c-3d2c1e187312,132
+Pink Floyd,Quicksilver,1969-06-13,Soundtrack From the Film “More”,Album,1-11,7f4c8467-f6b4-4b8f-91e1-c64cb9c51268,433
+Pink Floyd,A Spanish Piece,1969-06-13,Soundtrack From the Film “More”,Album,1-12,e7b9c987-5e79-4ee5-bd19-d7f7429766fc,65
+Pink Floyd,Dramatic Theme,1969-06-13,Soundtrack From the Film “More”,Album,1-13,2c05c0df-32c7-4956-9139-dc6b22d6a649,135
+Pink Floyd,See Emily Play,1967-10-05,エミリーはプレイ・ガール,Single,1-1,af71d8c2-0b29-4ff2-bcdb-89b828314c9e,173
+Pink Floyd,Scarecrow,1967-10-05,エミリーはプレイ・ガール,Single,1-2,9c0938c2-c238-4af5-a1da-fb4abd7a4748,130

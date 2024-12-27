@@ -1,0 +1,46 @@
+Albania: A
+Andorra: R, A
+Armenia: M, E, A
+Austria: T, R, A
+Azerbaijan: Z, A, J, A
+Belgium: L, G, M
+Bosnia: A
+and: A
+Herzegovina: Z, E, G
+Bulgaria: L, R, A
+Croatia: A
+Czech: Z, E
+Denmark: D, E, M
+Estonia: T, A
+Georgia: A
+Germany: R, M, A
+Greece: G, E
+Hungary: R
+Italy: L
+Kazakhstan: Z, A, A
+Latvia: T, A
+Liechtenstein: E
+Lithuania: A, A
+Luxembourg: M
+Malta: M
+Moldova: L, D, A
+Montenegro: G, R
+North: R
+Macedonia: M, E, D, A
+Norway: R, A
+Portugal: R, T, L
+Romania: R, M, A, A
+Russia: A
+San Marino:  , M, A
+Serbia: A
+Slovakia: L, A, A
+Slovenia: L, E, A
+Sweden: E, D, E
+Switzerland: T, Z
+Turkey: T, R, E
+United: D
+Kingdom: M
+England: E, G
+Scotland: A
+Northern: R
+City: T

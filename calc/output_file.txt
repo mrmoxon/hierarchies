@@ -1,0 +1,441 @@
+
+Word: Albania
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 1 letters: Al + Ba + N + I
+Letters needed: A
+Missing 1 letters: Al + Ba + Ni
+Letters needed: A
+
+Word: Andorra
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 2 letters: Nd + O + Ra
+Letters needed: R, A
+
+Word: Armenia
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 3 letters: Ar + N + I
+Letters needed: M, E, A
+Missing 3 letters: Ar + Ni
+Letters needed: M, E, A
+
+Word: Austria
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 3 letters: Au + S + I
+Letters needed: T, R, A
+
+Word: Azerbaijan
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 4 letters: Er + Ba + I + N
+Letters needed: Z, A, J, A
+
+Word: Belarus
+Can be spelled with elements!
+Solutions:
+1. Be + La + Ru + S
+
+Word: Belgium
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 3 letters: Be + I + U
+Letters needed: L, G, M
+
+Word: Bosnia
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 1 letters: B + O + S + N + I
+Letters needed: A
+Missing 1 letters: B + O + S + Ni
+Letters needed: A
+Missing 1 letters: B + O + Sn + I
+Letters needed: A
+Missing 1 letters: B + Os + N + I
+Letters needed: A
+Missing 1 letters: B + Os + Ni
+Letters needed: A
+
+Word: and
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 1 letters: Nd
+Letters needed: A
+
+Word: Herzegovina
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 3 letters: H + Er + O + V + I + Na
+Letters needed: Z, E, G
+
+Word: Bulgaria
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 3 letters: B + U + Ga + I
+Letters needed: L, R, A
+Missing 3 letters: B + U + Ar + I
+Letters needed: L, G, A
+
+Word: Croatia
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 1 letters: Cr + O + At + I
+Letters needed: A
+
+Word: Cyprus
+Can be spelled with elements!
+Solutions:
+1. C + Y + P + Ru + S
+2. C + Y + Pr + U + S
+
+Word: Czech
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 2 letters: C + C + H
+Letters needed: Z, E
+
+Word: Republic
+Can be spelled with elements!
+Solutions:
+1. Re + P + U + B + Li + C
+2. Re + Pu + B + Li + C
+
+Word: Denmark
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 3 letters: N + Ar + K
+Letters needed: D, E, M
+
+Word: Estonia
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 2 letters: Es + O + N + I
+Letters needed: T, A
+Missing 2 letters: Es + O + Ni
+Letters needed: T, A
+
+Word: Finland
+Can be spelled with elements!
+Solutions:
+1. F + I + N + La + Nd
+2. F + In + La + Nd
+
+Word: France
+Can be spelled with elements!
+Solutions:
+1. F + Ra + N + Ce
+
+Word: Georgia
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 1 letters: Ge + O + Rg + I
+Letters needed: A
+
+Word: Germany
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 3 letters: Ge + N + Y
+Letters needed: R, M, A
+Missing 3 letters: Er + N + Y
+Letters needed: G, M, A
+
+Word: Greece
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 2 letters: Re + Ce
+Letters needed: G, E
+
+Word: Hungary
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 1 letters: H + U + N + Ga + Y
+Letters needed: R
+Missing 1 letters: H + U + N + Ar + Y
+Letters needed: G
+
+Word: Iceland
+Can be spelled with elements!
+Solutions:
+1. I + Ce + La + Nd
+
+Word: Ireland
+Can be spelled with elements!
+Solutions:
+1. I + Re + La + Nd
+
+Word: Italy
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 1 letters: I + Ta + Y
+Letters needed: L
+Missing 1 letters: I + Al + Y
+Letters needed: T
+
+Word: Kazakhstan
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 3 letters: K + K + H + S + Ta + N
+Letters needed: Z, A, A
+Missing 3 letters: K + K + Hs + Ta + N
+Letters needed: Z, A, A
+
+Word: Kosovo
+Can be spelled with elements!
+Solutions:
+1. K + O + S + O + V + O
+2. K + Os + O + V + O
+
+Word: Latvia
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 2 letters: La + V + I
+Letters needed: T, A
+Missing 2 letters: At + V + I
+Letters needed: L, A
+
+Word: Liechtenstein
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 1 letters: Li + C + H + Te + N + S + Te + I + N
+Letters needed: E
+Missing 1 letters: Li + C + H + Te + N + S + Te + In
+Letters needed: E
+
+Word: Lithuania
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 2 letters: Li + Th + U + N + I
+Letters needed: A, A
+Missing 2 letters: Li + Th + U + Ni
+Letters needed: A, A
+
+Word: Luxembourg
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 1 letters: Lu + Xe + B + O + U + Rg
+Letters needed: M
+
+Word: Malta
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 1 letters: Al + Ta
+Letters needed: M
+
+Word: Moldova
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 3 letters: Mo + O + V
+Letters needed: L, D, A
+
+Word: Monaco
+Can be spelled with elements!
+Solutions:
+1. Mo + N + Ac + O
+2. Mo + Na + C + O
+3. Mo + Na + Co
+
+Word: Montenegro
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 2 letters: Mo + N + Te + Ne + O
+Letters needed: G, R
+
+Word: Netherlands
+Can be spelled with elements!
+Solutions:
+1. Ne + Th + Er + La + N + Ds
+2. Ne + Th + Er + La + Nd + S
+
+Word: North
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 1 letters: N + O + Th
+Letters needed: R
+Missing 1 letters: No + Th
+Letters needed: R
+
+Word: Macedonia
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 4 letters: Ac + O + N + I
+Letters needed: M, E, D, A
+Missing 4 letters: Ac + O + Ni
+Letters needed: M, E, D, A
+Missing 4 letters: Ce + O + N + I
+Letters needed: M, A, D, A
+Missing 4 letters: Ce + O + Ni
+Letters needed: M, A, D, A
+
+Word: Norway
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 2 letters: N + O + W + Y
+Letters needed: R, A
+Missing 2 letters: No + W + Y
+Letters needed: R, A
+
+Word: Poland
+Can be spelled with elements!
+Solutions:
+1. P + O + La + Nd
+2. Po + La + Nd
+
+Word: Portugal
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 3 letters: P + O + U + Ga
+Letters needed: R, T, L
+Missing 3 letters: P + O + U + Al
+Letters needed: R, T, G
+Missing 3 letters: Po + U + Ga
+Letters needed: R, T, L
+Missing 3 letters: Po + U + Al
+Letters needed: R, T, G
+
+Word: Romania
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 4 letters: O + N + I
+Letters needed: R, M, A, A
+Missing 4 letters: O + Ni
+Letters needed: R, M, A, A
+
+Word: Russia
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 1 letters: Ru + S + S + I
+Letters needed: A
+Missing 1 letters: Ru + S + Si
+Letters needed: A
+
+Word: San Marino
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 3 letters: S + N + Ar + I + N + O
+Letters needed:  , M, A
+Missing 3 letters: S + N + Ar + I + No
+Letters needed:  , M, A
+Missing 3 letters: S + N + Ar + In + O
+Letters needed:  , M, A
+
+Word: Serbia
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 1 letters: S + Er + B + I
+Letters needed: A
+Missing 1 letters: S + Er + Bi
+Letters needed: A
+Missing 1 letters: Se + Rb + I
+Letters needed: A
+
+Word: Slovakia
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 3 letters: S + O + V + K + I
+Letters needed: L, A, A
+
+Word: Slovenia
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 3 letters: S + O + V + N + I
+Letters needed: L, E, A
+Missing 3 letters: S + O + V + Ni
+Letters needed: L, E, A
+
+Word: Spain
+Can be spelled with elements!
+Solutions:
+1. S + Pa + I + N
+2. S + Pa + In
+
+Word: Sweden
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 3 letters: S + W + N
+Letters needed: E, D, E
+
+Word: Switzerland
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 2 letters: S + W + I + Er + La + Nd
+Letters needed: T, Z
+
+Word: Turkey
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 3 letters: U + K + Y
+Letters needed: T, R, E
+
+Word: Ukraine
+Can be spelled with elements!
+Solutions:
+1. U + K + Ra + I + Ne
+
+Word: United
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 1 letters: U + N + I + Te
+Letters needed: D
+Missing 1 letters: U + Ni + Te
+Letters needed: D
+
+Word: Kingdom
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 1 letters: K + I + N + Gd + O
+Letters needed: M
+Missing 1 letters: K + In + Gd + O
+Letters needed: M
+
+Word: England
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 2 letters: N + La + Nd
+Letters needed: E, G
+
+Word: Scotland
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 1 letters: S + C + O + Tl + Nd
+Letters needed: A
+Missing 1 letters: S + C + O + La + Nd
+Letters needed: T
+Missing 1 letters: S + Co + Tl + Nd
+Letters needed: A
+Missing 1 letters: S + Co + La + Nd
+Letters needed: T
+Missing 1 letters: Sc + O + Tl + Nd
+Letters needed: A
+Missing 1 letters: Sc + O + La + Nd
+Letters needed: T
+
+Word: Wales
+Can be spelled with elements!
+Solutions:
+1. W + Al + Es
+
+Word: Northern
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 1 letters: N + O + Th + Er + N
+Letters needed: R
+Missing 1 letters: No + Th + Er + N
+Letters needed: R
+
+Word: Ireland
+Can be spelled with elements!
+Solutions:
+1. I + Re + La + Nd
+
+Word: Vatican
+Can be spelled with elements!
+Solutions:
+1. V + At + I + Ca + N
+
+Word: City
+Cannot be spelled exactly with elements
+Closest matches:
+Missing 1 letters: C + I + Y
+Letters needed: T

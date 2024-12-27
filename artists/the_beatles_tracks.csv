@@ -1,0 +1,496 @@
+artist,song_title,release_date,release_title,release_type,track_position,recording_id,length_seconds
+The Beatles,From Me to You,1963-09-06,The Beatles’ Hits,Album,1-1,dc87225b-46bc-4a5d-837f-14e7eb8f2ca2,117
+The Beatles,Thank You Girl,1963-09-06,The Beatles’ Hits,Album,1-2,72e496b3-73e5-482a-99f8-5a0f9a844391,123
+The Beatles,Please Please Me,1963-09-06,The Beatles’ Hits,Album,1-3,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Love Me Do,1963-09-06,The Beatles’ Hits,Album,1-4,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,From Me to You,1963,From Me to You / Thank You Girl,Single,1-1,dc87225b-46bc-4a5d-837f-14e7eb8f2ca2,117
+The Beatles,Thank You Girl,1963,From Me to You / Thank You Girl,Single,1-2,72e496b3-73e5-482a-99f8-5a0f9a844391,123
+The Beatles,I Want to Hold Your Hand,1963-12-12,I Want to Hold Your Hand,Single,1-1,e9433409-2786-4194-8dfb-9427e6ba34d2,147
+The Beatles,This Boy,1963-12-12,I Want to Hold Your Hand,Single,1-2,7c9e1dfc-71e4-4980-982b-ef841efdd325,135
+The Beatles,Please Please Me,1963-02-07,Please Please Me / Ask My Why,Single,1-1,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Ask Me Why,1963-02-07,Please Please Me / Ask My Why,Single,1-2,c8da403f-3c34-48b0-ae9e-7aa419df07c3,142
+The Beatles,I Saw Her Standing There,1963-11-01,No. 1,Album,1-1,da77d23c-3acb-4b3d-9596-24aa55f03ece,175
+The Beatles,Misery,1963-11-01,No. 1,Album,1-2,c91fd146-01cb-4673-b653-d0845c05e164,110
+The Beatles,Anna (Go to Him),1963-11-01,No. 1,Album,1-3,db567516-40c0-46b0-9198-a196b8d2a19c,177
+The Beatles,Chains,1963-11-01,No. 1,Album,1-4,b4e7e5e2-69a5-423c-be62-6a888d07ccb6,146
+The Beatles,From Me to You,1963-06-18,From Me to You / Thank You Girl,Single,1-1,dc87225b-46bc-4a5d-837f-14e7eb8f2ca2,117
+The Beatles,Thank You Girl,1963-06-18,From Me to You / Thank You Girl,Single,1-2,72e496b3-73e5-482a-99f8-5a0f9a844391,123
+The Beatles,Love Me Do,1963,Love Me Do / P.S. I Love You,Single,1-1,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,P.S. I Love You,1963,Love Me Do / P.S. I Love You,Single,1-2,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,It Won’t Be Long,1963,With The Beatles,Album,1-1,49150aa6-2f72-4c95-9247-130d5046e827,133
+The Beatles,All I’ve Got to Do,1963,With The Beatles,Album,1-2,c0071f77-86d0-4b0d-a36d-44c8af14dbe8,125
+The Beatles,All My Loving,1963,With The Beatles,Album,1-3,be5761a7-d99a-44e8-96a4-904b490f7061,130
+The Beatles,Don’t Bother Me,1963,With The Beatles,Album,1-4,fd8dec5e-c45f-4761-9d15-c1fb675cc21b,149
+The Beatles,Little Child,1963,With The Beatles,Album,1-5,13075131-64d3-447d-9c98-cd3e06afffda,108
+The Beatles,Till There Was You,1963,With The Beatles,Album,1-6,7ac6bb7b-6dca-4343-95f6-27eefc1a8841,137
+The Beatles,Please Mister Postman,1963,With The Beatles,Album,1-7,d6760a03-b4fe-429b-ac0e-f49416a12409,155
+The Beatles,Roll Over Beethoven,1963,With The Beatles,Album,1-8,706be20f-e062-4569-94cc-25842dc0a625,167
+The Beatles,Hold Me Tight,1963,With The Beatles,Album,1-9,0432a2b7-614b-4389-b4fd-44ecdaddc84f,153
+The Beatles,You Really Got a Hold on Me,1963,With The Beatles,Album,1-10,c30faedd-630b-48ea-9187-2ee737c310de,183
+The Beatles,I Wanna Be Your Man,1963,With The Beatles,Album,1-11,fe9a1f66-b3f7-451a-b0af-0ad513beafed,119
+The Beatles,Devil in Her Heart,1963,With The Beatles,Album,1-12,42fd2bdf-eb4b-486c-b144-d650013bd5b4,148
+The Beatles,Not a Second Time,1963,With The Beatles,Album,1-13,b5351678-2cbe-4b3d-b843-9fbc0e36b423,128
+The Beatles,Money (That’s What I Want),1963,With The Beatles,Album,1-14,37904f52-5381-4afa-a7a9-b49f408d6d33,168
+The Beatles,Love Me Do,1962-10-05,Love Me Do / P.S. I Love You,Single,1-1,f87eb4dd-7e3c-4365-a3c8-f144696f5952,143
+The Beatles,P.S. I Love You,1962-10-05,Love Me Do / P.S. I Love You,Single,1-2,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Please Please Me,1963-02-07,Please Please Me / Ask Me Why,Single,1-1,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Ask Me Why,1963-02-07,Please Please Me / Ask Me Why,Single,1-2,c8da403f-3c34-48b0-ae9e-7aa419df07c3,142
+The Beatles,It Won’t Be Long,1963-11-25,Beatlemania! With The Beatles,Album,1-1,49150aa6-2f72-4c95-9247-130d5046e827,133
+The Beatles,All I’ve Got to Do,1963-11-25,Beatlemania! With The Beatles,Album,1-2,c0071f77-86d0-4b0d-a36d-44c8af14dbe8,125
+The Beatles,All My Loving,1963-11-25,Beatlemania! With The Beatles,Album,1-3,be5761a7-d99a-44e8-96a4-904b490f7061,130
+The Beatles,Don’t Bother Me,1963-11-25,Beatlemania! With The Beatles,Album,1-4,fd8dec5e-c45f-4761-9d15-c1fb675cc21b,149
+The Beatles,Little Child,1963-11-25,Beatlemania! With The Beatles,Album,1-5,13075131-64d3-447d-9c98-cd3e06afffda,108
+The Beatles,Till There Was You,1963-11-25,Beatlemania! With The Beatles,Album,1-6,7ac6bb7b-6dca-4343-95f6-27eefc1a8841,137
+The Beatles,Please Mister Postman,1963-11-25,Beatlemania! With The Beatles,Album,1-7,d6760a03-b4fe-429b-ac0e-f49416a12409,155
+The Beatles,Roll Over Beethoven,1963-11-25,Beatlemania! With The Beatles,Album,1-8,706be20f-e062-4569-94cc-25842dc0a625,167
+The Beatles,Hold Me Tight,1963-11-25,Beatlemania! With The Beatles,Album,1-9,0432a2b7-614b-4389-b4fd-44ecdaddc84f,153
+The Beatles,You Really Got a Hold on Me,1963-11-25,Beatlemania! With The Beatles,Album,1-10,c30faedd-630b-48ea-9187-2ee737c310de,183
+The Beatles,I Wanna Be Your Man,1963-11-25,Beatlemania! With The Beatles,Album,1-11,fe9a1f66-b3f7-451a-b0af-0ad513beafed,119
+The Beatles,Devil in Her Heart,1963-11-25,Beatlemania! With The Beatles,Album,1-12,42fd2bdf-eb4b-486c-b144-d650013bd5b4,148
+The Beatles,Not a Second Time,1963-11-25,Beatlemania! With The Beatles,Album,1-13,b5351678-2cbe-4b3d-b843-9fbc0e36b423,128
+The Beatles,Money (That’s What I Want),1963-11-25,Beatlemania! With The Beatles,Album,1-14,37904f52-5381-4afa-a7a9-b49f408d6d33,168
+The Beatles,Love Me Do,1962-10-05,Love Me Do / P.S. I Love You,Single,1-1,f87eb4dd-7e3c-4365-a3c8-f144696f5952,143
+The Beatles,P.S. I Love You,1962-10-05,Love Me Do / P.S. I Love You,Single,1-2,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,I Saw Her Standing There,1964-01-10,Introducing… The Beatles,Album,1-1,da77d23c-3acb-4b3d-9596-24aa55f03ece,175
+The Beatles,Misery,1964-01-10,Introducing… The Beatles,Album,1-2,b5b2c4ce-4c7d-4fa9-99ab-96cc10e767f1,105
+The Beatles,Anna (Go to Him),1964-01-10,Introducing… The Beatles,Album,1-3,db567516-40c0-46b0-9198-a196b8d2a19c,177
+The Beatles,Chains,1964-01-10,Introducing… The Beatles,Album,1-4,b4e7e5e2-69a5-423c-be62-6a888d07ccb6,146
+The Beatles,Boys,1964-01-10,Introducing… The Beatles,Album,1-5,64e7b8ca-2fa2-47ae-8f6a-e3ebf835e2da,147
+The Beatles,Love Me Do,1964-01-10,Introducing… The Beatles,Album,1-6,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,P.S. I Love You,1964-01-10,Introducing… The Beatles,Album,1-7,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Baby It’s You,1964-01-10,Introducing… The Beatles,Album,1-8,f9b03c87-41da-4e69-b97d-500d587e3703,160
+The Beatles,Do You Want to Know a Secret,1964-01-10,Introducing… The Beatles,Album,1-9,42df56b9-0aa2-4cb7-bcb5-b8c6d89803de,120
+The Beatles,A Taste of Honey,1964-01-10,Introducing… The Beatles,Album,1-10,a6fbba57-6e43-4a8b-a017-c9c2cf64b282,125
+The Beatles,There’s a Place,1964-01-10,Introducing… The Beatles,Album,1-11,14c4b37f-8a93-4dc3-bc23-2ed86cdb20bb,113
+The Beatles,Twist and Shout,1964-01-10,Introducing… The Beatles,Album,1-12,af6fb155-b03c-46ea-a44e-22ce394b2a46,153
+The Beatles,I Want to Hold Your Hand,1963-11-29,I Want to Hold Your Hand / This Boy,Single,1-1,e9433409-2786-4194-8dfb-9427e6ba34d2,147
+The Beatles,This Boy,1963-11-29,I Want to Hold Your Hand / This Boy,Single,1-2,7c9e1dfc-71e4-4980-982b-ef841efdd325,135
+The Beatles,I Saw Her Standing There,1963,Please Please Me,Album,1-1,da77d23c-3acb-4b3d-9596-24aa55f03ece,175
+The Beatles,Misery,1963,Please Please Me,Album,1-2,c91fd146-01cb-4673-b653-d0845c05e164,110
+The Beatles,Anna (Go to Him),1963,Please Please Me,Album,1-3,db567516-40c0-46b0-9198-a196b8d2a19c,177
+The Beatles,Chains,1963,Please Please Me,Album,1-4,b4e7e5e2-69a5-423c-be62-6a888d07ccb6,146
+The Beatles,Boys,1963,Please Please Me,Album,1-5,64e7b8ca-2fa2-47ae-8f6a-e3ebf835e2da,147
+The Beatles,Ask Me Why,1963,Please Please Me,Album,1-6,04532aae-d0cb-403c-8e09-7ea1716a124c,147
+The Beatles,Please Please Me,1963,Please Please Me,Album,1-7,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Love Me Do,1963,Please Please Me,Album,1-8,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,P.S. I Love You,1963,Please Please Me,Album,1-9,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Baby It’s You,1963,Please Please Me,Album,1-10,f9b03c87-41da-4e69-b97d-500d587e3703,160
+The Beatles,Do You Want to Know a Secret,1963,Please Please Me,Album,1-11,42df56b9-0aa2-4cb7-bcb5-b8c6d89803de,120
+The Beatles,A Taste of Honey,1963,Please Please Me,Album,1-12,a6fbba57-6e43-4a8b-a017-c9c2cf64b282,125
+The Beatles,There’s a Place,1963,Please Please Me,Album,1-13,14c4b37f-8a93-4dc3-bc23-2ed86cdb20bb,113
+The Beatles,Twist and Shout,1963,Please Please Me,Album,1-14,af6fb155-b03c-46ea-a44e-22ce394b2a46,153
+The Beatles,Please Please Me,1963-04,Please Please Me / Ask Me Why,Single,1-1,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Ask Me Why,1963-04,Please Please Me / Ask Me Why,Single,1-2,c8da403f-3c34-48b0-ae9e-7aa419df07c3,142
+The Beatles,I Want to Hold Your Hand,1964-01-13,I Want to Hold Your Hand / I Saw Her Standing There,Single,1-1,e9433409-2786-4194-8dfb-9427e6ba34d2,147
+The Beatles,I Saw Her Standing There,1964-01-13,I Want to Hold Your Hand / I Saw Her Standing There,Single,1-2,0e04d324-4710-422e-8a4a-1d7362caa5ad,175
+The Beatles,I Saw Her Standing There,1964-01-10,Introducing… The Beatles,Album,1-1,da77d23c-3acb-4b3d-9596-24aa55f03ece,175
+The Beatles,Misery,1964-01-10,Introducing… The Beatles,Album,1-2,b5b2c4ce-4c7d-4fa9-99ab-96cc10e767f1,105
+The Beatles,Anna (Go to Him),1964-01-10,Introducing… The Beatles,Album,1-3,db567516-40c0-46b0-9198-a196b8d2a19c,177
+The Beatles,Chains,1964-01-10,Introducing… The Beatles,Album,1-4,b4e7e5e2-69a5-423c-be62-6a888d07ccb6,146
+The Beatles,Boys,1964-01-10,Introducing… The Beatles,Album,1-5,64e7b8ca-2fa2-47ae-8f6a-e3ebf835e2da,147
+The Beatles,Love Me Do,1964-01-10,Introducing… The Beatles,Album,1-6,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,P.S. I Love You,1964-01-10,Introducing… The Beatles,Album,1-7,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Baby It’s You,1964-01-10,Introducing… The Beatles,Album,1-8,f9b03c87-41da-4e69-b97d-500d587e3703,160
+The Beatles,Do You Want to Know a Secret,1964-01-10,Introducing… The Beatles,Album,1-9,42df56b9-0aa2-4cb7-bcb5-b8c6d89803de,120
+The Beatles,A Taste of Honey,1964-01-10,Introducing… The Beatles,Album,1-10,a6fbba57-6e43-4a8b-a017-c9c2cf64b282,125
+The Beatles,There’s a Place,1964-01-10,Introducing… The Beatles,Album,1-11,14c4b37f-8a93-4dc3-bc23-2ed86cdb20bb,113
+The Beatles,Twist and Shout,1964-01-10,Introducing… The Beatles,Album,1-12,af6fb155-b03c-46ea-a44e-22ce394b2a46,153
+The Beatles,I Saw Her Standing There,1963-04-26,Please Please Me,Album,1-1,0e04d324-4710-422e-8a4a-1d7362caa5ad,175
+The Beatles,Misery,1963-04-26,Please Please Me,Album,1-2,cd80145d-f897-4469-a7d5-cedc6d83b816,108
+The Beatles,Anna (Go to Him),1963-04-26,Please Please Me,Album,1-3,59b38ba7-ad30-4dfe-ba41-3d8ee4348c18,177
+The Beatles,Chains,1963-04-26,Please Please Me,Album,1-4,7c56b21f-17d5-43a3-a698-14373c1f302d,145
+The Beatles,Boys,1963-04-26,Please Please Me,Album,1-5,606667b6-12ac-4e34-9e42-d5c773916d10,146
+The Beatles,Ask Me Why,1963-04-26,Please Please Me,Album,1-6,d9944f08-0291-4939-9630-65f0ae8657ae,146
+The Beatles,Please Please Me,1963-04-26,Please Please Me,Album,1-7,b720b11f-2c00-4f48-83b9-4aa9d3207e8c,122
+The Beatles,Love Me Do,1963-04-26,Please Please Me,Album,1-8,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,P.S. I Love You,1963-04-26,Please Please Me,Album,1-9,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Baby It’s You,1963-04-26,Please Please Me,Album,1-10,fc36150d-9979-429d-aa9d-b217fd7d7218,160
+The Beatles,Do You Want to Know a Secret,1963-04-26,Please Please Me,Album,1-11,b3c37580-789c-42d4-a906-ee0cf5cf4649,117
+The Beatles,A Taste of Honey,1963-04-26,Please Please Me,Album,1-12,6794841d-9f38-4e22-865c-fdee1f383043,123
+The Beatles,There’s a Place,1963-04-26,Please Please Me,Album,1-13,ee801ae1-001f-4b9e-9ebc-b2d03b8bf672,110
+The Beatles,Twist and Shout,1963-04-26,Please Please Me,Album,1-14,735027a3-d183-42a0-a691-7be6c166df2f,154
+The Beatles,Twist and Shout,1963-07-12,Twist and Shout,Album,1-1,af6fb155-b03c-46ea-a44e-22ce394b2a46,153
+The Beatles,A Taste of Honey,1963-07-12,Twist and Shout,Album,1-2,a6fbba57-6e43-4a8b-a017-c9c2cf64b282,125
+The Beatles,Do You Want to Know a Secret,1963-07-12,Twist and Shout,Album,1-3,42df56b9-0aa2-4cb7-bcb5-b8c6d89803de,120
+The Beatles,There’s a Place,1963-07-12,Twist and Shout,Album,1-4,14c4b37f-8a93-4dc3-bc23-2ed86cdb20bb,113
+The Beatles,From Me to You,1963-09,From Me to You,Album,1-1,26b73835-8ae0-4205-9293-7b57c0b9c30d,123
+The Beatles,Ask Me Why,1963-09,From Me to You,Album,1-2,c8dac115-6c68-4ed7-93ee-b4cf8c26359e,
+The Beatles,I Saw Her Standing There,1963-09,From Me to You,Album,1-3,0d1961c7-27e9-49ab-b05b-8ffe8078f01b,168
+The Beatles,Please Please Me,1963-09,From Me to You,Album,1-4,e355812f-d06d-4f4c-b424-3c61b429b9f5,131
+The Beatles,I Saw Her Standing There,1963-04,Please Please Me,Album,1-1,0e04d324-4710-422e-8a4a-1d7362caa5ad,175
+The Beatles,Misery,1963-04,Please Please Me,Album,1-2,cd80145d-f897-4469-a7d5-cedc6d83b816,108
+The Beatles,Anna (Go to Him),1963-04,Please Please Me,Album,1-3,59b38ba7-ad30-4dfe-ba41-3d8ee4348c18,177
+The Beatles,Chains,1963-04,Please Please Me,Album,1-4,7c56b21f-17d5-43a3-a698-14373c1f302d,145
+The Beatles,Boys,1963-04,Please Please Me,Album,1-5,606667b6-12ac-4e34-9e42-d5c773916d10,146
+The Beatles,Ask Me Why,1963-04,Please Please Me,Album,1-6,d9944f08-0291-4939-9630-65f0ae8657ae,146
+The Beatles,Please Please Me,1963-04,Please Please Me,Album,1-7,b720b11f-2c00-4f48-83b9-4aa9d3207e8c,122
+The Beatles,Love Me Do,1963-04,Please Please Me,Album,1-8,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,P.S. I Love You,1963-04,Please Please Me,Album,1-9,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Baby It’s You,1963-04,Please Please Me,Album,1-10,fc36150d-9979-429d-aa9d-b217fd7d7218,160
+The Beatles,Do You Want to Know a Secret,1963-04,Please Please Me,Album,1-11,b3c37580-789c-42d4-a906-ee0cf5cf4649,117
+The Beatles,A Taste of Honey,1963-04,Please Please Me,Album,1-12,6794841d-9f38-4e22-865c-fdee1f383043,123
+The Beatles,There’s a Place,1963-04,Please Please Me,Album,1-13,ee801ae1-001f-4b9e-9ebc-b2d03b8bf672,110
+The Beatles,Twist and Shout,1963-04,Please Please Me,Album,1-14,735027a3-d183-42a0-a691-7be6c166df2f,154
+The Beatles,From Me to You,1963,The Beatles’ Hits,Album,1-1,dc87225b-46bc-4a5d-837f-14e7eb8f2ca2,117
+The Beatles,Thank You Girl,1963,The Beatles’ Hits,Album,1-2,72e496b3-73e5-482a-99f8-5a0f9a844391,123
+The Beatles,Please Please Me,1963,The Beatles’ Hits,Album,1-3,b720b11f-2c00-4f48-83b9-4aa9d3207e8c,122
+The Beatles,Love Me Do,1963,The Beatles’ Hits,Album,1-4,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,Please Please Me,1963-03,Please Please Me / Ask Me Why,Single,1-1,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Ask Me Why,1963-03,Please Please Me / Ask Me Why,Single,1-2,c8da403f-3c34-48b0-ae9e-7aa419df07c3,142
+The Beatles,She Loves You,1963,She Loves You / I’ll Get You,Single,1-1,21047249-7b3f-4651-acca-246669c081fd,141
+The Beatles,I’ll Get You,1963,She Loves You / I’ll Get You,Single,1-2,5de0bb62-d0aa-47f1-9d04-e7911a7ffdc5,125
+The Beatles,I Want to Hold Your Hand,1963-12-26,I Want to Hold Your Hand / I Saw Her Standing There,Single,1-1,e9433409-2786-4194-8dfb-9427e6ba34d2,147
+The Beatles,I Saw Her Standing There,1963-12-26,I Want to Hold Your Hand / I Saw Her Standing There,Single,1-2,0e04d324-4710-422e-8a4a-1d7362caa5ad,175
+The Beatles,I Saw Her Standing There,1964-01-10,Introducing… The Beatles,Album,1-1,da77d23c-3acb-4b3d-9596-24aa55f03ece,175
+The Beatles,Misery,1964-01-10,Introducing… The Beatles,Album,1-2,b5b2c4ce-4c7d-4fa9-99ab-96cc10e767f1,105
+The Beatles,Anna (Go to Him),1964-01-10,Introducing… The Beatles,Album,1-3,db567516-40c0-46b0-9198-a196b8d2a19c,177
+The Beatles,Chains,1964-01-10,Introducing… The Beatles,Album,1-4,b4e7e5e2-69a5-423c-be62-6a888d07ccb6,146
+The Beatles,Boys,1964-01-10,Introducing… The Beatles,Album,1-5,64e7b8ca-2fa2-47ae-8f6a-e3ebf835e2da,147
+The Beatles,Love Me Do,1964-01-10,Introducing… The Beatles,Album,1-6,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,P.S. I Love You,1964-01-10,Introducing… The Beatles,Album,1-7,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Baby It’s You,1964-01-10,Introducing… The Beatles,Album,1-8,f9b03c87-41da-4e69-b97d-500d587e3703,160
+The Beatles,Do You Want to Know a Secret,1964-01-10,Introducing… The Beatles,Album,1-9,42df56b9-0aa2-4cb7-bcb5-b8c6d89803de,120
+The Beatles,A Taste of Honey,1964-01-10,Introducing… The Beatles,Album,1-10,a6fbba57-6e43-4a8b-a017-c9c2cf64b282,125
+The Beatles,There’s a Place,1964-01-10,Introducing… The Beatles,Album,1-11,14c4b37f-8a93-4dc3-bc23-2ed86cdb20bb,113
+The Beatles,Twist and Shout,1964-01-10,Introducing… The Beatles,Album,1-12,af6fb155-b03c-46ea-a44e-22ce394b2a46,153
+The Beatles,My Bonnie,1962-04-23,My Bonnie,Single,1-1,d77c43a1-7804-46ce-98c3-8da60ebba7ba,162
+The Beatles,The Saints,1962-04-23,My Bonnie,Single,1-2,bb0fc222-e480-48a5-89ec-a564efb3886a,199
+The Beatles,Please Please Me,1963-01-11,Please Please Me / Ask Me Why,Single,1-1,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Ask Me Why,1963-01-11,Please Please Me / Ask Me Why,Single,1-2,c8da403f-3c34-48b0-ae9e-7aa419df07c3,142
+The Beatles,I Want to Hold Your Hand,1963-12-26,I Want to Hold Your Hand / I Saw Her Standing There,Single,1-1,e9433409-2786-4194-8dfb-9427e6ba34d2,147
+The Beatles,I Saw Her Standing There,1963-12-26,I Want to Hold Your Hand / I Saw Her Standing There,Single,1-2,0e04d324-4710-422e-8a4a-1d7362caa5ad,175
+The Beatles,I Saw Her Standing There,1963-05,Please Please Me,Album,1-1,0e04d324-4710-422e-8a4a-1d7362caa5ad,175
+The Beatles,Misery,1963-05,Please Please Me,Album,1-2,cd80145d-f897-4469-a7d5-cedc6d83b816,108
+The Beatles,Anna (Go to Him),1963-05,Please Please Me,Album,1-3,59b38ba7-ad30-4dfe-ba41-3d8ee4348c18,177
+The Beatles,Chains,1963-05,Please Please Me,Album,1-4,7c56b21f-17d5-43a3-a698-14373c1f302d,145
+The Beatles,Boys,1963-05,Please Please Me,Album,1-5,606667b6-12ac-4e34-9e42-d5c773916d10,146
+The Beatles,Ask Me Why,1963-05,Please Please Me,Album,1-6,d9944f08-0291-4939-9630-65f0ae8657ae,146
+The Beatles,Please Please Me,1963-05,Please Please Me,Album,1-7,b720b11f-2c00-4f48-83b9-4aa9d3207e8c,122
+The Beatles,Love Me Do,1963-05,Please Please Me,Album,1-8,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,P.S. I Love You,1963-05,Please Please Me,Album,1-9,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Baby It’s You,1963-05,Please Please Me,Album,1-10,fc36150d-9979-429d-aa9d-b217fd7d7218,160
+The Beatles,Do You Want to Know a Secret,1963-05,Please Please Me,Album,1-11,b3c37580-789c-42d4-a906-ee0cf5cf4649,117
+The Beatles,A Taste of Honey,1963-05,Please Please Me,Album,1-12,6794841d-9f38-4e22-865c-fdee1f383043,123
+The Beatles,There’s a Place,1963-05,Please Please Me,Album,1-13,ee801ae1-001f-4b9e-9ebc-b2d03b8bf672,110
+The Beatles,Twist and Shout,1963-05,Please Please Me,Album,1-14,735027a3-d183-42a0-a691-7be6c166df2f,154
+The Beatles,I Want to Hold Your Hand,1963-11-29,I Want to Hold Your Hand / This Boy,Single,1-1,e9433409-2786-4194-8dfb-9427e6ba34d2,147
+The Beatles,This Boy,1963-11-29,I Want to Hold Your Hand / This Boy,Single,1-2,7c9e1dfc-71e4-4980-982b-ef841efdd325,135
+The Beatles,From Me to You,1963-05-06,From Me to You / Thank You Girl,Single,1-1,dc87225b-46bc-4a5d-837f-14e7eb8f2ca2,117
+The Beatles,Thank You Girl,1963-05-06,From Me to You / Thank You Girl,Single,1-2,72e496b3-73e5-482a-99f8-5a0f9a844391,123
+The Beatles,It Won’t Be Long,1963-11-22,With The Beatles,Album,1-1,d51d3d1f-7f92-4a8b-91df-f37c3a93d145,133
+The Beatles,All I’ve Got to Do,1963-11-22,With The Beatles,Album,1-2,3129b2ee-03fe-477c-92f7-e275b96f5071,125
+The Beatles,All My Loving,1963-11-22,With The Beatles,Album,1-3,a7a373f1-b996-4017-81f8-9e3276522f25,129
+The Beatles,Don’t Bother Me,1963-11-22,With The Beatles,Album,1-4,ae2c5d82-1295-4f2a-8680-8bd42e61281a,149
+The Beatles,Little Child,1963-11-22,With The Beatles,Album,1-5,542e40c8-f83c-430b-bd44-d0c20e9b8c92,108
+The Beatles,Till There Was You,1963-11-22,With The Beatles,Album,1-6,7d61f681-36ea-44cf-9de1-84c0241de96d,137
+The Beatles,Please Mister Postman,1963-11-22,With The Beatles,Album,1-7,62ebf874-f6ba-4df9-9a4a-944aebf1f07b,155
+The Beatles,Roll Over Beethoven,1963-11-22,With The Beatles,Album,1-8,e44e7ccd-3297-48ed-8611-0beb6087d92d,168
+The Beatles,Hold Me Tight,1963-11-22,With The Beatles,Album,1-9,47c5356f-b40f-4369-82d4-b0238eb78f6a,153
+The Beatles,You Really Got a Hold on Me,1963-11-22,With The Beatles,Album,1-10,4dc2450f-4353-441f-baa4-e3b0d31562fa,183
+The Beatles,I Wanna Be Your Man,1963-11-22,With The Beatles,Album,1-11,573b70bd-9ac3-4600-8092-00e483046d3e,120
+The Beatles,Devil in Her Heart,1963-11-22,With The Beatles,Album,1-12,8b090b49-76a0-4ef0-8270-22ccc60b272f,148
+The Beatles,Not a Second Time,1963-11-22,With The Beatles,Album,1-13,02e355fc-e422-4aa3-acfa-089c35ecc128,127
+The Beatles,Money (That’s What I Want),1963-11-22,With The Beatles,Album,1-14,efc73dc2-b2a5-451b-95a8-1712009005a4,169
+The Beatles,Please Please Me,1963-04-09,Please Please Me / Ask Me Why,Single,1-1,b720b11f-2c00-4f48-83b9-4aa9d3207e8c,122
+The Beatles,Ask Me Why,1963-04-09,Please Please Me / Ask Me Why,Single,1-2,c8da403f-3c34-48b0-ae9e-7aa419df07c3,142
+The Beatles,My Bonnie,1963-05-23,My Bonnie,Single,1-1,d77c43a1-7804-46ce-98c3-8da60ebba7ba,162
+The Beatles,The Saints,1963-05-23,My Bonnie,Single,1-2,bb0fc222-e480-48a5-89ec-a564efb3886a,199
+The Beatles,I Want to Hold Your Hand,1964-01-20,Meet The Beatles!,Album,1-1,e9433409-2786-4194-8dfb-9427e6ba34d2,147
+The Beatles,I Saw Her Standing There,1964-01-20,Meet The Beatles!,Album,1-2,243d99c5-e36f-468a-88aa-d512abcbf781,177
+The Beatles,This Boy,1964-01-20,Meet The Beatles!,Album,1-3,7c9e1dfc-71e4-4980-982b-ef841efdd325,135
+The Beatles,It Won’t Be Long,1964-01-20,Meet The Beatles!,Album,1-4,6e530671-0cf6-4e48-96dc-6528a3a25f49,136
+The Beatles,All I’ve Got to Do,1964-01-20,Meet The Beatles!,Album,1-5,9a75df5f-5dd0-42c5-ad14-a86cb970dc83,128
+The Beatles,All My Loving,1964-01-20,Meet The Beatles!,Album,1-6,1e4dd7d6-3204-4464-821e-62a1883589ec,130
+The Beatles,Don’t Bother Me,1964-01-20,Meet The Beatles!,Album,1-7,e26fd475-500c-4e51-b056-9e09dd3085c2,151
+The Beatles,Little Child,1964-01-20,Meet The Beatles!,Album,1-8,81b169b9-1f9d-4dc6-97a0-b58327c6747c,110
+The Beatles,Till There Was You,1964-01-20,Meet The Beatles!,Album,1-9,b3901d4a-da70-47bb-a3a2-362a98f2e351,140
+The Beatles,Hold Me Tight,1964-01-20,Meet The Beatles!,Album,1-10,c2d3b0b1-39da-43eb-b670-9289d012acdd,154
+The Beatles,I Wanna Be Your Man,1964-01-20,Meet The Beatles!,Album,1-11,393f8de6-b0d8-4424-a4c3-ee7d3f6e1eb5,122
+The Beatles,Not a Second Time,1964-01-20,Meet The Beatles!,Album,1-12,ce5e7402-36da-4897-bc2b-2470078fdd6e,127
+The Beatles,She Loves You,1963-08-23,She Loves You / I’ll Get You,Single,1-1,21047249-7b3f-4651-acca-246669c081fd,141
+The Beatles,I’ll Get You,1963-08-23,She Loves You / I’ll Get You,Single,1-2,5de0bb62-d0aa-47f1-9d04-e7911a7ffdc5,125
+The Beatles,She Loves You,1963-08-29,She Loves You / I’ll Get You,Single,1-1,21047249-7b3f-4651-acca-246669c081fd,141
+The Beatles,I’ll Get You,1963-08-29,She Loves You / I’ll Get You,Single,1-2,5de0bb62-d0aa-47f1-9d04-e7911a7ffdc5,125
+The Beatles,Please Please Me,1963-02,Please Please Me / Ask Me Why,Single,1-1,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Ask Me Why,1963-02,Please Please Me / Ask Me Why,Single,1-2,c8da403f-3c34-48b0-ae9e-7aa419df07c3,142
+The Beatles,Love Me Do,1964-01-16,"Love Me, Do / I Saw Her Standing There",Single,1-1,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,I Saw Her Standing There,1964-01-16,"Love Me, Do / I Saw Her Standing There",Single,1-2,6de731d6-7a8f-43a0-8cb0-1dca5a40d04e,170
+The Beatles,From Me to You,1963-04-11,From Me to You / Thank You Girl,Single,1-1,dc87225b-46bc-4a5d-837f-14e7eb8f2ca2,117
+The Beatles,Thank You Girl,1963-04-11,From Me to You / Thank You Girl,Single,1-2,72e496b3-73e5-482a-99f8-5a0f9a844391,123
+The Beatles,I Saw Her Standing There,1964-01-10,Introducing… The Beatles,Album,1-1,0e04d324-4710-422e-8a4a-1d7362caa5ad,175
+The Beatles,Misery,1964-01-10,Introducing… The Beatles,Album,1-2,cd80145d-f897-4469-a7d5-cedc6d83b816,108
+The Beatles,Anna (Go to Him),1964-01-10,Introducing… The Beatles,Album,1-3,59b38ba7-ad30-4dfe-ba41-3d8ee4348c18,177
+The Beatles,Chains,1964-01-10,Introducing… The Beatles,Album,1-4,7c56b21f-17d5-43a3-a698-14373c1f302d,145
+The Beatles,Boys,1964-01-10,Introducing… The Beatles,Album,1-5,606667b6-12ac-4e34-9e42-d5c773916d10,146
+The Beatles,Love Me Do,1964-01-10,Introducing… The Beatles,Album,1-6,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,P.S. I Love You,1964-01-10,Introducing… The Beatles,Album,1-7,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Baby It’s You,1964-01-10,Introducing… The Beatles,Album,1-8,fc36150d-9979-429d-aa9d-b217fd7d7218,160
+The Beatles,Do You Want to Know a Secret,1964-01-10,Introducing… The Beatles,Album,1-9,b3c37580-789c-42d4-a906-ee0cf5cf4649,117
+The Beatles,A Taste of Honey,1964-01-10,Introducing… The Beatles,Album,1-10,6794841d-9f38-4e22-865c-fdee1f383043,123
+The Beatles,There’s a Place,1964-01-10,Introducing… The Beatles,Album,1-11,ee801ae1-001f-4b9e-9ebc-b2d03b8bf672,110
+The Beatles,Twist and Shout,1964-01-10,Introducing… The Beatles,Album,1-12,735027a3-d183-42a0-a691-7be6c166df2f,154
+The Beatles,Please Please Me,1963-04,Please Please Me / Ask Me Why,Single,1-1,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Ask Me Why,1963-04,Please Please Me / Ask Me Why,Single,1-2,c8da403f-3c34-48b0-ae9e-7aa419df07c3,142
+The Beatles,It Won’t Be Long,1963,With The Beatles,Album,1-1,d51d3d1f-7f92-4a8b-91df-f37c3a93d145,133
+The Beatles,All I’ve Got to Do,1963,With The Beatles,Album,1-2,3129b2ee-03fe-477c-92f7-e275b96f5071,125
+The Beatles,All My Loving,1963,With The Beatles,Album,1-3,a7a373f1-b996-4017-81f8-9e3276522f25,129
+The Beatles,Don’t Bother Me,1963,With The Beatles,Album,1-4,ae2c5d82-1295-4f2a-8680-8bd42e61281a,149
+The Beatles,Little Child,1963,With The Beatles,Album,1-5,542e40c8-f83c-430b-bd44-d0c20e9b8c92,108
+The Beatles,Till There Was You,1963,With The Beatles,Album,1-6,7d61f681-36ea-44cf-9de1-84c0241de96d,137
+The Beatles,Please Mister Postman,1963,With The Beatles,Album,1-7,62ebf874-f6ba-4df9-9a4a-944aebf1f07b,155
+The Beatles,Roll Over Beethoven,1963,With The Beatles,Album,1-8,e44e7ccd-3297-48ed-8611-0beb6087d92d,168
+The Beatles,Hold Me Tight,1963,With The Beatles,Album,1-9,47c5356f-b40f-4369-82d4-b0238eb78f6a,153
+The Beatles,You Really Got a Hold on Me,1963,With The Beatles,Album,1-10,4dc2450f-4353-441f-baa4-e3b0d31562fa,183
+The Beatles,I Wanna Be Your Man,1963,With The Beatles,Album,1-11,573b70bd-9ac3-4600-8092-00e483046d3e,120
+The Beatles,Devil in Her Heart,1963,With The Beatles,Album,1-12,8b090b49-76a0-4ef0-8270-22ccc60b272f,148
+The Beatles,Not a Second Time,1963,With The Beatles,Album,1-13,02e355fc-e422-4aa3-acfa-089c35ecc128,127
+The Beatles,Money (That’s What I Want),1963,With The Beatles,Album,1-14,efc73dc2-b2a5-451b-95a8-1712009005a4,169
+The Beatles,The Beatles Christmas Record,1963-12-06,The Beatles’ Christmas Record,Single,1-1,5b913c5f-41ab-430c-b8c9-255dfca8a840,303
+The Beatles,I Saw Her Standing There,1963,Please Please Me,Album,1-1,0e04d324-4710-422e-8a4a-1d7362caa5ad,175
+The Beatles,Misery,1963,Please Please Me,Album,1-2,cd80145d-f897-4469-a7d5-cedc6d83b816,108
+The Beatles,Anna (Go to Him),1963,Please Please Me,Album,1-3,59b38ba7-ad30-4dfe-ba41-3d8ee4348c18,177
+The Beatles,Chains,1963,Please Please Me,Album,1-4,7c56b21f-17d5-43a3-a698-14373c1f302d,145
+The Beatles,Boys,1963,Please Please Me,Album,1-5,606667b6-12ac-4e34-9e42-d5c773916d10,146
+The Beatles,Ask Me Why,1963,Please Please Me,Album,1-6,d9944f08-0291-4939-9630-65f0ae8657ae,146
+The Beatles,Please Please Me,1963,Please Please Me,Album,1-7,b720b11f-2c00-4f48-83b9-4aa9d3207e8c,122
+The Beatles,Love Me Do,1963,Please Please Me,Album,1-8,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,P.S. I Love You,1963,Please Please Me,Album,1-9,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Baby It’s You,1963,Please Please Me,Album,1-10,fc36150d-9979-429d-aa9d-b217fd7d7218,160
+The Beatles,Do You Want to Know a Secret,1963,Please Please Me,Album,1-11,b3c37580-789c-42d4-a906-ee0cf5cf4649,117
+The Beatles,A Taste of Honey,1963,Please Please Me,Album,1-12,6794841d-9f38-4e22-865c-fdee1f383043,123
+The Beatles,There’s a Place,1963,Please Please Me,Album,1-13,ee801ae1-001f-4b9e-9ebc-b2d03b8bf672,110
+The Beatles,Twist and Shout,1963,Please Please Me,Album,1-14,735027a3-d183-42a0-a691-7be6c166df2f,154
+The Beatles,My Bonnie,1961-10-23,My Bonnie,Single,1-1,93ab1582-3bce-486b-8c2e-5d3026dccd48,164
+The Beatles,The Saints,1961-10-23,My Bonnie,Single,1-2,bb0fc222-e480-48a5-89ec-a564efb3886a,199
+The Beatles,From Me to You,1963-05-09,From Me to You,Single,1-1,dc87225b-46bc-4a5d-837f-14e7eb8f2ca2,117
+The Beatles,Thank You Girl,1963-05-09,From Me to You,Single,1-2,72e496b3-73e5-482a-99f8-5a0f9a844391,123
+The Beatles,My Bonnie,1962-04,My Bonnie,Single,1-1,d77c43a1-7804-46ce-98c3-8da60ebba7ba,162
+The Beatles,The Saints,1962-04,My Bonnie,Single,1-2,bb0fc222-e480-48a5-89ec-a564efb3886a,199
+The Beatles,From Me to You,1963-04-11,From Me to You / Thank You Girl,Single,1-1,dc87225b-46bc-4a5d-837f-14e7eb8f2ca2,117
+The Beatles,Thank You Girl,1963-04-11,From Me to You / Thank You Girl,Single,1-2,72e496b3-73e5-482a-99f8-5a0f9a844391,123
+The Beatles,Twist and Shout,1963-07,Twist and Shout,Album,1-1,735027a3-d183-42a0-a691-7be6c166df2f,154
+The Beatles,A Taste of Honey,1963-07,Twist and Shout,Album,1-2,a665e804-8159-407e-b822-d11c3b276a5b,124
+The Beatles,Do You Want to Know a Secret,1963-07,Twist and Shout,Album,1-3,2df92299-b2b1-4623-9e1a-0688a6e9af62,118
+The Beatles,There’s a Place,1963-07,Twist and Shout,Album,1-4,29135870-9a6f-46ad-a4e7-d8ca24541626,110
+The Beatles,From Me to You,1963,From Me to You / Thank You Girl,Single,1-1,dc87225b-46bc-4a5d-837f-14e7eb8f2ca2,117
+The Beatles,Thank You Girl,1963,From Me to You / Thank You Girl,Single,1-2,72e496b3-73e5-482a-99f8-5a0f9a844391,123
+The Beatles,She Loves You,1963-09-16,She Loves You / I’ll Get You,Single,1-1,21047249-7b3f-4651-acca-246669c081fd,141
+The Beatles,I’ll Get You,1963-09-16,She Loves You / I’ll Get You,Single,1-2,5de0bb62-d0aa-47f1-9d04-e7911a7ffdc5,125
+The Beatles,I Want to Hold Your Hand,1964-01-20,Meet The Beatles!,Album,1-1,e9433409-2786-4194-8dfb-9427e6ba34d2,147
+The Beatles,I Saw Her Standing There,1964-01-20,Meet The Beatles!,Album,1-2,243d99c5-e36f-468a-88aa-d512abcbf781,177
+The Beatles,This Boy,1964-01-20,Meet The Beatles!,Album,1-3,7c9e1dfc-71e4-4980-982b-ef841efdd325,135
+The Beatles,It Won’t Be Long,1964-01-20,Meet The Beatles!,Album,1-4,6e530671-0cf6-4e48-96dc-6528a3a25f49,136
+The Beatles,All I’ve Got to Do,1964-01-20,Meet The Beatles!,Album,1-5,9a75df5f-5dd0-42c5-ad14-a86cb970dc83,128
+The Beatles,All My Loving,1964-01-20,Meet The Beatles!,Album,1-6,1e4dd7d6-3204-4464-821e-62a1883589ec,130
+The Beatles,Don’t Bother Me,1964-01-20,Meet The Beatles!,Album,1-7,e26fd475-500c-4e51-b056-9e09dd3085c2,151
+The Beatles,Little Child,1964-01-20,Meet The Beatles!,Album,1-8,81b169b9-1f9d-4dc6-97a0-b58327c6747c,110
+The Beatles,Till There Was You,1964-01-20,Meet The Beatles!,Album,1-9,b3901d4a-da70-47bb-a3a2-362a98f2e351,140
+The Beatles,Hold Me Tight,1964-01-20,Meet The Beatles!,Album,1-10,c2d3b0b1-39da-43eb-b670-9289d012acdd,154
+The Beatles,I Wanna Be Your Man,1964-01-20,Meet The Beatles!,Album,1-11,393f8de6-b0d8-4424-a4c3-ee7d3f6e1eb5,122
+The Beatles,Not a Second Time,1964-01-20,Meet The Beatles!,Album,1-12,ce5e7402-36da-4897-bc2b-2470078fdd6e,127
+The Beatles,She Loves You,1963-09,She Loves You / I’ll Get You,Single,1-1,21047249-7b3f-4651-acca-246669c081fd,141
+The Beatles,I’ll Get You,1963-09,She Loves You / I’ll Get You,Single,1-2,5de0bb62-d0aa-47f1-9d04-e7911a7ffdc5,125
+The Beatles,From Me to You,1963-05-06,From Me to You / Thank You Girl,Single,1-1,dc87225b-46bc-4a5d-837f-14e7eb8f2ca2,117
+The Beatles,Thank You Girl,1963-05-06,From Me to You / Thank You Girl,Single,1-2,72e496b3-73e5-482a-99f8-5a0f9a844391,123
+The Beatles,I Saw Her Standing There,1964-01-10,Introducing… The Beatles,Album,1-1,0e04d324-4710-422e-8a4a-1d7362caa5ad,175
+The Beatles,Misery,1964-01-10,Introducing… The Beatles,Album,1-2,cd80145d-f897-4469-a7d5-cedc6d83b816,108
+The Beatles,Anna (Go to Him),1964-01-10,Introducing… The Beatles,Album,1-3,59b38ba7-ad30-4dfe-ba41-3d8ee4348c18,177
+The Beatles,Chains,1964-01-10,Introducing… The Beatles,Album,1-4,7c56b21f-17d5-43a3-a698-14373c1f302d,145
+The Beatles,Boys,1964-01-10,Introducing… The Beatles,Album,1-5,606667b6-12ac-4e34-9e42-d5c773916d10,146
+The Beatles,Love Me Do,1964-01-10,Introducing… The Beatles,Album,1-6,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,P.S. I Love You,1964-01-10,Introducing… The Beatles,Album,1-7,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Baby It’s You,1964-01-10,Introducing… The Beatles,Album,1-8,fc36150d-9979-429d-aa9d-b217fd7d7218,160
+The Beatles,Do You Want to Know a Secret,1964-01-10,Introducing… The Beatles,Album,1-9,b3c37580-789c-42d4-a906-ee0cf5cf4649,117
+The Beatles,A Taste of Honey,1964-01-10,Introducing… The Beatles,Album,1-10,6794841d-9f38-4e22-865c-fdee1f383043,123
+The Beatles,There’s a Place,1964-01-10,Introducing… The Beatles,Album,1-11,ee801ae1-001f-4b9e-9ebc-b2d03b8bf672,110
+The Beatles,Twist and Shout,1964-01-10,Introducing… The Beatles,Album,1-12,735027a3-d183-42a0-a691-7be6c166df2f,154
+The Beatles,I Saw Her Standing There,1963-05,Please Please Me,Album,1-1,da77d23c-3acb-4b3d-9596-24aa55f03ece,175
+The Beatles,Misery,1963-05,Please Please Me,Album,1-2,c91fd146-01cb-4673-b653-d0845c05e164,110
+The Beatles,Anna (Go to Him),1963-05,Please Please Me,Album,1-3,db567516-40c0-46b0-9198-a196b8d2a19c,177
+The Beatles,Chains,1963-05,Please Please Me,Album,1-4,b4e7e5e2-69a5-423c-be62-6a888d07ccb6,146
+The Beatles,Boys,1963-05,Please Please Me,Album,1-5,64e7b8ca-2fa2-47ae-8f6a-e3ebf835e2da,147
+The Beatles,Ask Me Why,1963-05,Please Please Me,Album,1-6,04532aae-d0cb-403c-8e09-7ea1716a124c,147
+The Beatles,Please Please Me,1963-05,Please Please Me,Album,1-7,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Love Me Do,1963-05,Please Please Me,Album,1-8,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,P.S. I Love You,1963-05,Please Please Me,Album,1-9,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Baby It’s You,1963-05,Please Please Me,Album,1-10,f9b03c87-41da-4e69-b97d-500d587e3703,160
+The Beatles,Do You Want to Know a Secret,1963-05,Please Please Me,Album,1-11,42df56b9-0aa2-4cb7-bcb5-b8c6d89803de,120
+The Beatles,A Taste of Honey,1963-05,Please Please Me,Album,1-12,a6fbba57-6e43-4a8b-a017-c9c2cf64b282,125
+The Beatles,There’s a Place,1963-05,Please Please Me,Album,1-13,14c4b37f-8a93-4dc3-bc23-2ed86cdb20bb,113
+The Beatles,Twist and Shout,1963-05,Please Please Me,Album,1-14,af6fb155-b03c-46ea-a44e-22ce394b2a46,153
+The Beatles,It Won’t Be Long,1963,With The Beatles,Album,1-1,49150aa6-2f72-4c95-9247-130d5046e827,133
+The Beatles,All I’ve Got to Do,1963,With The Beatles,Album,1-2,c0071f77-86d0-4b0d-a36d-44c8af14dbe8,125
+The Beatles,All My Loving,1963,With The Beatles,Album,1-3,64a9d79b-5eee-4f8e-a43f-3402830174fb,129
+The Beatles,Don’t Bother Me,1963,With The Beatles,Album,1-4,fd8dec5e-c45f-4761-9d15-c1fb675cc21b,149
+The Beatles,Little Child,1963,With The Beatles,Album,1-5,13075131-64d3-447d-9c98-cd3e06afffda,108
+The Beatles,Till There Was You,1963,With The Beatles,Album,1-6,7ac6bb7b-6dca-4343-95f6-27eefc1a8841,137
+The Beatles,Please Mister Postman,1963,With The Beatles,Album,1-7,d6760a03-b4fe-429b-ac0e-f49416a12409,155
+The Beatles,Roll Over Beethoven,1963,With The Beatles,Album,1-8,706be20f-e062-4569-94cc-25842dc0a625,167
+The Beatles,Hold Me Tight,1963,With The Beatles,Album,1-9,0432a2b7-614b-4389-b4fd-44ecdaddc84f,153
+The Beatles,You Really Got a Hold on Me,1963,With The Beatles,Album,1-10,c30faedd-630b-48ea-9187-2ee737c310de,183
+The Beatles,I Wanna Be Your Man,1963,With The Beatles,Album,1-11,fe9a1f66-b3f7-451a-b0af-0ad513beafed,119
+The Beatles,Devil in Her Heart,1963,With The Beatles,Album,1-12,42fd2bdf-eb4b-486c-b144-d650013bd5b4,148
+The Beatles,Not a Second Time,1963,With The Beatles,Album,1-13,b5351678-2cbe-4b3d-b843-9fbc0e36b423,128
+The Beatles,Money (That’s What I Want),1963,With The Beatles,Album,1-14,37904f52-5381-4afa-a7a9-b49f408d6d33,168
+The Beatles,It Won’t Be Long,1963-11-22,With The Beatles,Album,1-1,49150aa6-2f72-4c95-9247-130d5046e827,133
+The Beatles,All I’ve Got to Do,1963-11-22,With The Beatles,Album,1-2,c0071f77-86d0-4b0d-a36d-44c8af14dbe8,125
+The Beatles,All My Loving,1963-11-22,With The Beatles,Album,1-3,be5761a7-d99a-44e8-96a4-904b490f7061,130
+The Beatles,Don’t Bother Me,1963-11-22,With The Beatles,Album,1-4,fd8dec5e-c45f-4761-9d15-c1fb675cc21b,149
+The Beatles,Little Child,1963-11-22,With The Beatles,Album,1-5,13075131-64d3-447d-9c98-cd3e06afffda,108
+The Beatles,Till There Was You,1963-11-22,With The Beatles,Album,1-6,7ac6bb7b-6dca-4343-95f6-27eefc1a8841,137
+The Beatles,Please Mister Postman,1963-11-22,With The Beatles,Album,1-7,d6760a03-b4fe-429b-ac0e-f49416a12409,155
+The Beatles,Roll Over Beethoven,1963-11-22,With The Beatles,Album,1-8,706be20f-e062-4569-94cc-25842dc0a625,167
+The Beatles,Hold Me Tight,1963-11-22,With The Beatles,Album,1-9,0432a2b7-614b-4389-b4fd-44ecdaddc84f,153
+The Beatles,You Really Got a Hold on Me,1963-11-22,With The Beatles,Album,1-10,c30faedd-630b-48ea-9187-2ee737c310de,183
+The Beatles,I Wanna Be Your Man,1963-11-22,With The Beatles,Album,1-11,fe9a1f66-b3f7-451a-b0af-0ad513beafed,119
+The Beatles,Devil in Her Heart,1963-11-22,With The Beatles,Album,1-12,42fd2bdf-eb4b-486c-b144-d650013bd5b4,148
+The Beatles,Not a Second Time,1963-11-22,With The Beatles,Album,1-13,b5351678-2cbe-4b3d-b843-9fbc0e36b423,128
+The Beatles,Money (That’s What I Want),1963-11-22,With The Beatles,Album,1-14,37904f52-5381-4afa-a7a9-b49f408d6d33,168
+The Beatles,I Saw Her Standing There,1963-11-01,No. 1,Album,1-1,da77d23c-3acb-4b3d-9596-24aa55f03ece,175
+The Beatles,Misery,1963-11-01,No. 1,Album,1-2,c91fd146-01cb-4673-b653-d0845c05e164,110
+The Beatles,Anna (Go to Him),1963-11-01,No. 1,Album,1-3,db567516-40c0-46b0-9198-a196b8d2a19c,177
+The Beatles,Chains,1963-11-01,No. 1,Album,1-4,b4e7e5e2-69a5-423c-be62-6a888d07ccb6,146
+The Beatles,I Saw Her Standing There,1963-03-22,Please Please Me,Album,1-1,da77d23c-3acb-4b3d-9596-24aa55f03ece,175
+The Beatles,Misery,1963-03-22,Please Please Me,Album,1-2,c91fd146-01cb-4673-b653-d0845c05e164,110
+The Beatles,Anna (Go to Him),1963-03-22,Please Please Me,Album,1-3,db567516-40c0-46b0-9198-a196b8d2a19c,177
+The Beatles,Chains,1963-03-22,Please Please Me,Album,1-4,b4e7e5e2-69a5-423c-be62-6a888d07ccb6,146
+The Beatles,Boys,1963-03-22,Please Please Me,Album,1-5,64e7b8ca-2fa2-47ae-8f6a-e3ebf835e2da,147
+The Beatles,Ask Me Why,1963-03-22,Please Please Me,Album,1-6,04532aae-d0cb-403c-8e09-7ea1716a124c,147
+The Beatles,Please Please Me,1963-03-22,Please Please Me,Album,1-7,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Love Me Do,1963-03-22,Please Please Me,Album,1-8,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,P.S. I Love You,1963-03-22,Please Please Me,Album,1-9,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Baby It’s You,1963-03-22,Please Please Me,Album,1-10,f9b03c87-41da-4e69-b97d-500d587e3703,160
+The Beatles,Do You Want to Know a Secret,1963-03-22,Please Please Me,Album,1-11,42df56b9-0aa2-4cb7-bcb5-b8c6d89803de,120
+The Beatles,A Taste of Honey,1963-03-22,Please Please Me,Album,1-12,a6fbba57-6e43-4a8b-a017-c9c2cf64b282,125
+The Beatles,There’s a Place,1963-03-22,Please Please Me,Album,1-13,14c4b37f-8a93-4dc3-bc23-2ed86cdb20bb,113
+The Beatles,Twist and Shout,1963-03-22,Please Please Me,Album,1-14,af6fb155-b03c-46ea-a44e-22ce394b2a46,153
+The Beatles,I Saw Her Standing There,1963-05,Please Please Me,Album,1-1,0e04d324-4710-422e-8a4a-1d7362caa5ad,175
+The Beatles,Misery,1963-05,Please Please Me,Album,1-2,cd80145d-f897-4469-a7d5-cedc6d83b816,108
+The Beatles,Anna (Go to Him),1963-05,Please Please Me,Album,1-3,59b38ba7-ad30-4dfe-ba41-3d8ee4348c18,177
+The Beatles,Chains,1963-05,Please Please Me,Album,1-4,7c56b21f-17d5-43a3-a698-14373c1f302d,145
+The Beatles,Boys,1963-05,Please Please Me,Album,1-5,606667b6-12ac-4e34-9e42-d5c773916d10,146
+The Beatles,Ask Me Why,1963-05,Please Please Me,Album,1-6,d9944f08-0291-4939-9630-65f0ae8657ae,146
+The Beatles,Please Please Me,1963-05,Please Please Me,Album,1-7,b720b11f-2c00-4f48-83b9-4aa9d3207e8c,122
+The Beatles,Love Me Do,1963-05,Please Please Me,Album,1-8,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,P.S. I Love You,1963-05,Please Please Me,Album,1-9,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Baby It’s You,1963-05,Please Please Me,Album,1-10,fc36150d-9979-429d-aa9d-b217fd7d7218,160
+The Beatles,Do You Want to Know a Secret,1963-05,Please Please Me,Album,1-11,b3c37580-789c-42d4-a906-ee0cf5cf4649,117
+The Beatles,A Taste of Honey,1963-05,Please Please Me,Album,1-12,6794841d-9f38-4e22-865c-fdee1f383043,123
+The Beatles,There’s a Place,1963-05,Please Please Me,Album,1-13,ee801ae1-001f-4b9e-9ebc-b2d03b8bf672,110
+The Beatles,Twist and Shout,1963-05,Please Please Me,Album,1-14,735027a3-d183-42a0-a691-7be6c166df2f,154
+The Beatles,I Saw Her Standing There,1963,Please Please Me,Album,1-1,da77d23c-3acb-4b3d-9596-24aa55f03ece,175
+The Beatles,Misery,1963,Please Please Me,Album,1-2,c91fd146-01cb-4673-b653-d0845c05e164,110
+The Beatles,Anna (Go to Him),1963,Please Please Me,Album,1-3,db567516-40c0-46b0-9198-a196b8d2a19c,177
+The Beatles,Chains,1963,Please Please Me,Album,1-4,b4e7e5e2-69a5-423c-be62-6a888d07ccb6,146
+The Beatles,Boys,1963,Please Please Me,Album,1-5,64e7b8ca-2fa2-47ae-8f6a-e3ebf835e2da,147
+The Beatles,Ask Me Why,1963,Please Please Me,Album,1-6,04532aae-d0cb-403c-8e09-7ea1716a124c,147
+The Beatles,Please Please Me,1963,Please Please Me,Album,1-7,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Love Me Do,1963,Please Please Me,Album,1-8,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,P.S. I Love You,1963,Please Please Me,Album,1-9,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Baby It’s You,1963,Please Please Me,Album,1-10,f9b03c87-41da-4e69-b97d-500d587e3703,160
+The Beatles,Do You Want to Know a Secret,1963,Please Please Me,Album,1-11,42df56b9-0aa2-4cb7-bcb5-b8c6d89803de,120
+The Beatles,A Taste of Honey,1963,Please Please Me,Album,1-12,a6fbba57-6e43-4a8b-a017-c9c2cf64b282,125
+The Beatles,There’s a Place,1963,Please Please Me,Album,1-13,14c4b37f-8a93-4dc3-bc23-2ed86cdb20bb,113
+The Beatles,Twist and Shout,1963,Please Please Me,Album,1-14,af6fb155-b03c-46ea-a44e-22ce394b2a46,153
+The Beatles,From Me to You,1963-09-06,The Beatles’ Hits,Album,1-1,dc87225b-46bc-4a5d-837f-14e7eb8f2ca2,117
+The Beatles,Thank You Girl,1963-09-06,The Beatles’ Hits,Album,1-2,72e496b3-73e5-482a-99f8-5a0f9a844391,123
+The Beatles,Please Please Me,1963-09-06,The Beatles’ Hits,Album,1-3,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Love Me Do,1963-09-06,The Beatles’ Hits,Album,1-4,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,My Bonnie,1962-01-05,My Bonnie,Single,1-1,d77c43a1-7804-46ce-98c3-8da60ebba7ba,162
+The Beatles,The Saints,1962-01-05,My Bonnie,Single,1-2,bb0fc222-e480-48a5-89ec-a564efb3886a,199
+The Beatles,I Saw Her Standing There,1963-05,Please Please Me,Album,1-1,da77d23c-3acb-4b3d-9596-24aa55f03ece,175
+The Beatles,Misery,1963-05,Please Please Me,Album,1-2,c91fd146-01cb-4673-b653-d0845c05e164,110
+The Beatles,Anna (Go to Him),1963-05,Please Please Me,Album,1-3,db567516-40c0-46b0-9198-a196b8d2a19c,177
+The Beatles,Chains,1963-05,Please Please Me,Album,1-4,b4e7e5e2-69a5-423c-be62-6a888d07ccb6,146
+The Beatles,Boys,1963-05,Please Please Me,Album,1-5,64e7b8ca-2fa2-47ae-8f6a-e3ebf835e2da,147
+The Beatles,Ask Me Why,1963-05,Please Please Me,Album,1-6,04532aae-d0cb-403c-8e09-7ea1716a124c,147
+The Beatles,Please Please Me,1963-05,Please Please Me,Album,1-7,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Love Me Do,1963-05,Please Please Me,Album,1-8,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,P.S. I Love You,1963-05,Please Please Me,Album,1-9,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Baby It’s You,1963-05,Please Please Me,Album,1-10,f9b03c87-41da-4e69-b97d-500d587e3703,160
+The Beatles,Do You Want to Know a Secret,1963-05,Please Please Me,Album,1-11,42df56b9-0aa2-4cb7-bcb5-b8c6d89803de,120
+The Beatles,A Taste of Honey,1963-05,Please Please Me,Album,1-12,a6fbba57-6e43-4a8b-a017-c9c2cf64b282,125
+The Beatles,There’s a Place,1963-05,Please Please Me,Album,1-13,14c4b37f-8a93-4dc3-bc23-2ed86cdb20bb,113
+The Beatles,Twist and Shout,1963-05,Please Please Me,Album,1-14,af6fb155-b03c-46ea-a44e-22ce394b2a46,153
+The Beatles,My Bonnie,1962-01,My Bonnie,Single,1-1,d77c43a1-7804-46ce-98c3-8da60ebba7ba,162
+The Beatles,The Saints,1962-01,My Bonnie,Single,1-2,bb0fc222-e480-48a5-89ec-a564efb3886a,199
+The Beatles,From Me to You,1963-09-06,The Beatles’ Hits,Album,1-1,dc87225b-46bc-4a5d-837f-14e7eb8f2ca2,117
+The Beatles,Thank You Girl,1963-09-06,The Beatles’ Hits,Album,1-2,72e496b3-73e5-482a-99f8-5a0f9a844391,123
+The Beatles,Please Please Me,1963-09-06,The Beatles’ Hits,Album,1-3,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Love Me Do,1963-09-06,The Beatles’ Hits,Album,1-4,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,I Want to Hold Your Hand,1963-11-29,I Want to Hold Your Hand / This Boy,Single,1-1,e9433409-2786-4194-8dfb-9427e6ba34d2,147
+The Beatles,This Boy,1963-11-29,I Want to Hold Your Hand / This Boy,Single,1-2,7c9e1dfc-71e4-4980-982b-ef841efdd325,135
+The Beatles,I Want to Hold Your Hand,1963-12-05,I Want to Hold Your Hand,Album,1-1,e9433409-2786-4194-8dfb-9427e6ba34d2,147
+The Beatles,Till There Was You,1963-12-05,I Want to Hold Your Hand,Album,1-2,7ac6bb7b-6dca-4343-95f6-27eefc1a8841,137
+The Beatles,This Boy,1963-12-05,I Want to Hold Your Hand,Album,1-3,7c9e1dfc-71e4-4980-982b-ef841efdd325,135
+The Beatles,Devil in Her Heart,1963-12-05,I Want to Hold Your Hand,Album,1-4,42fd2bdf-eb4b-486c-b144-d650013bd5b4,148
+The Beatles,From Me to You,1963-05-06,From Me to You / Thank You Girl,Single,1-1,dc87225b-46bc-4a5d-837f-14e7eb8f2ca2,117
+The Beatles,Thank You Girl,1963-05-06,From Me to You / Thank You Girl,Single,1-2,72e496b3-73e5-482a-99f8-5a0f9a844391,123
+The Beatles,My Bonnie,1963-07-12,My Bonnie,Album,1-1,d77c43a1-7804-46ce-98c3-8da60ebba7ba,162
+The Beatles,Cry for a Shadow,1963-07-12,My Bonnie,Album,1-2,9efd24e2-163c-4e66-8824-b0d8c262813a,143
+The Beatles,The Saints,1963-07-12,My Bonnie,Album,1-3,bb0fc222-e480-48a5-89ec-a564efb3886a,199
+The Beatles,Why,1963-07-12,My Bonnie,Album,1-4,46d31955-3b0b-4615-bcc7-832c4b666c0b,178
+The Beatles,Twist and Shout,1963-07-12,Twist and Shout,Album,1-1,af6fb155-b03c-46ea-a44e-22ce394b2a46,153
+The Beatles,A Taste of Honey,1963-07-12,Twist and Shout,Album,1-2,a6fbba57-6e43-4a8b-a017-c9c2cf64b282,125
+The Beatles,Do You Want to Know a Secret,1963-07-12,Twist and Shout,Album,1-3,42df56b9-0aa2-4cb7-bcb5-b8c6d89803de,120
+The Beatles,There’s a Place,1963-07-12,Twist and Shout,Album,1-4,14c4b37f-8a93-4dc3-bc23-2ed86cdb20bb,113
+The Beatles,Please Please Me,1963-01,Please Please Me / Ask Me Why,Single,1-1,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Ask Me Why,1963-01,Please Please Me / Ask Me Why,Single,1-2,c8da403f-3c34-48b0-ae9e-7aa419df07c3,142
+The Beatles,From Me to You,1963-09-06,The Beatles’ Hits,Album,1-1,dc87225b-46bc-4a5d-837f-14e7eb8f2ca2,117
+The Beatles,Thank You Girl,1963-09-06,The Beatles’ Hits,Album,1-2,72e496b3-73e5-482a-99f8-5a0f9a844391,123
+The Beatles,Please Please Me,1963-09-06,The Beatles’ Hits,Album,1-3,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Love Me Do,1963-09-06,The Beatles’ Hits,Album,1-4,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,Twist and Shout,1963-07-12,Twist and Shout,Album,1-1,af6fb155-b03c-46ea-a44e-22ce394b2a46,153
+The Beatles,A Taste of Honey,1963-07-12,Twist and Shout,Album,1-2,a6fbba57-6e43-4a8b-a017-c9c2cf64b282,125
+The Beatles,Do You Want to Know a Secret,1963-07-12,Twist and Shout,Album,1-3,42df56b9-0aa2-4cb7-bcb5-b8c6d89803de,120
+The Beatles,There’s a Place,1963-07-12,Twist and Shout,Album,1-4,14c4b37f-8a93-4dc3-bc23-2ed86cdb20bb,113
+The Beatles,Roll Over Beethoven,1963-12-09,Roll Over Beethoven / Please Mr. Postman,Single,1-1,706be20f-e062-4569-94cc-25842dc0a625,167
+The Beatles,Please Mister Postman,1963-12-09,Roll Over Beethoven / Please Mr. Postman,Single,1-2,d6760a03-b4fe-429b-ac0e-f49416a12409,155
+The Beatles,Love Me Do,1963-02-18,Love Me Do / P.S. I Love You,Single,1-1,f87eb4dd-7e3c-4365-a3c8-f144696f5952,143
+The Beatles,P.S. I Love You,1963-02-18,Love Me Do / P.S. I Love You,Single,1-2,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Please Please Me,1963-02-07,Please Please Me / Ask Me Why,Single,1-1,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Ask Me Why,1963-02-07,Please Please Me / Ask Me Why,Single,1-2,c8da403f-3c34-48b0-ae9e-7aa419df07c3,142
+The Beatles,She Loves You,1963,She Loves You / I’ll Get You,Single,1-1,21047249-7b3f-4651-acca-246669c081fd,141
+The Beatles,I’ll Get You,1963,She Loves You / I’ll Get You,Single,1-2,5de0bb62-d0aa-47f1-9d04-e7911a7ffdc5,125
+The Beatles,Please Please Me,1963-02-21,Please Please Me,Single,1-1,b720b11f-2c00-4f48-83b9-4aa9d3207e8c,122
+The Beatles,Ask Me Why,1963-02-21,Please Please Me,Single,1-2,c8da403f-3c34-48b0-ae9e-7aa419df07c3,142
+The Beatles,It Won’t Be Long,1963,With The Beatles,Album,1-1,d51d3d1f-7f92-4a8b-91df-f37c3a93d145,133
+The Beatles,All I’ve Got to Do,1963,With The Beatles,Album,1-2,3129b2ee-03fe-477c-92f7-e275b96f5071,125
+The Beatles,All My Loving,1963,With The Beatles,Album,1-3,64a9d79b-5eee-4f8e-a43f-3402830174fb,129
+The Beatles,Don’t Bother Me,1963,With The Beatles,Album,1-4,ae2c5d82-1295-4f2a-8680-8bd42e61281a,149
+The Beatles,Little Child,1963,With The Beatles,Album,1-5,542e40c8-f83c-430b-bd44-d0c20e9b8c92,108
+The Beatles,Till There Was You,1963,With The Beatles,Album,1-6,7d61f681-36ea-44cf-9de1-84c0241de96d,137
+The Beatles,Please Mister Postman,1963,With The Beatles,Album,1-7,62ebf874-f6ba-4df9-9a4a-944aebf1f07b,155
+The Beatles,Roll Over Beethoven,1963,With The Beatles,Album,1-8,e44e7ccd-3297-48ed-8611-0beb6087d92d,168
+The Beatles,Hold Me Tight,1963,With The Beatles,Album,1-9,47c5356f-b40f-4369-82d4-b0238eb78f6a,153
+The Beatles,You Really Got a Hold on Me,1963,With The Beatles,Album,1-10,4dc2450f-4353-441f-baa4-e3b0d31562fa,183
+The Beatles,I Wanna Be Your Man,1963,With The Beatles,Album,1-11,573b70bd-9ac3-4600-8092-00e483046d3e,120
+The Beatles,Devil in Her Heart,1963,With The Beatles,Album,1-12,8b090b49-76a0-4ef0-8270-22ccc60b272f,148
+The Beatles,Not a Second Time,1963,With The Beatles,Album,1-13,02e355fc-e422-4aa3-acfa-089c35ecc128,127
+The Beatles,Money (That’s What I Want),1963,With The Beatles,Album,1-14,efc73dc2-b2a5-451b-95a8-1712009005a4,169
+The Beatles,I Saw Her Standing There,1964-01-10,Introducing… The Beatles,Album,1-1,da77d23c-3acb-4b3d-9596-24aa55f03ece,175
+The Beatles,Misery,1964-01-10,Introducing… The Beatles,Album,1-2,b5b2c4ce-4c7d-4fa9-99ab-96cc10e767f1,105
+The Beatles,Anna (Go to Him),1964-01-10,Introducing… The Beatles,Album,1-3,db567516-40c0-46b0-9198-a196b8d2a19c,177
+The Beatles,Chains,1964-01-10,Introducing… The Beatles,Album,1-4,b4e7e5e2-69a5-423c-be62-6a888d07ccb6,146
+The Beatles,Boys,1964-01-10,Introducing… The Beatles,Album,1-5,64e7b8ca-2fa2-47ae-8f6a-e3ebf835e2da,147
+The Beatles,Love Me Do,1964-01-10,Introducing… The Beatles,Album,1-6,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,P.S. I Love You,1964-01-10,Introducing… The Beatles,Album,1-7,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Baby It’s You,1964-01-10,Introducing… The Beatles,Album,1-8,f9b03c87-41da-4e69-b97d-500d587e3703,160
+The Beatles,Do You Want to Know a Secret,1964-01-10,Introducing… The Beatles,Album,1-9,42df56b9-0aa2-4cb7-bcb5-b8c6d89803de,120
+The Beatles,A Taste of Honey,1964-01-10,Introducing… The Beatles,Album,1-10,a6fbba57-6e43-4a8b-a017-c9c2cf64b282,125
+The Beatles,There’s a Place,1964-01-10,Introducing… The Beatles,Album,1-11,14c4b37f-8a93-4dc3-bc23-2ed86cdb20bb,113
+The Beatles,Twist and Shout,1964-01-10,Introducing… The Beatles,Album,1-12,af6fb155-b03c-46ea-a44e-22ce394b2a46,153
+The Beatles,I Saw Her Standing There,1963-04,Please Please Me,Album,1-1,da77d23c-3acb-4b3d-9596-24aa55f03ece,175
+The Beatles,Misery,1963-04,Please Please Me,Album,1-2,c91fd146-01cb-4673-b653-d0845c05e164,110
+The Beatles,Anna (Go to Him),1963-04,Please Please Me,Album,1-3,db567516-40c0-46b0-9198-a196b8d2a19c,177
+The Beatles,Chains,1963-04,Please Please Me,Album,1-4,b4e7e5e2-69a5-423c-be62-6a888d07ccb6,146
+The Beatles,Boys,1963-04,Please Please Me,Album,1-5,64e7b8ca-2fa2-47ae-8f6a-e3ebf835e2da,147
+The Beatles,Ask Me Why,1963-04,Please Please Me,Album,1-6,04532aae-d0cb-403c-8e09-7ea1716a124c,147
+The Beatles,Please Please Me,1963-04,Please Please Me,Album,1-7,875c1cf7-f568-4f0d-b5e3-bc8a7614269a,121
+The Beatles,Love Me Do,1963-04,Please Please Me,Album,1-8,1f518811-7cf9-4bdc-a656-0958e130f312,141
+The Beatles,P.S. I Love You,1963-04,Please Please Me,Album,1-9,c84e23aa-20d9-45df-85cb-a6ecdba6e44e,124
+The Beatles,Baby It’s You,1963-04,Please Please Me,Album,1-10,f9b03c87-41da-4e69-b97d-500d587e3703,160
+The Beatles,Do You Want to Know a Secret,1963-04,Please Please Me,Album,1-11,42df56b9-0aa2-4cb7-bcb5-b8c6d89803de,120
+The Beatles,A Taste of Honey,1963-04,Please Please Me,Album,1-12,a6fbba57-6e43-4a8b-a017-c9c2cf64b282,125
+The Beatles,There’s a Place,1963-04,Please Please Me,Album,1-13,14c4b37f-8a93-4dc3-bc23-2ed86cdb20bb,113
+The Beatles,Twist and Shout,1963-04,Please Please Me,Album,1-14,af6fb155-b03c-46ea-a44e-22ce394b2a46,153
